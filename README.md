@@ -6,7 +6,7 @@ See my article about this project: http://dinhquangtrung.net/blog/some-softwares
 Description
 -----------
 
-One of my biggest project in VB6. Antivirus program with dozen of tools to protect your computer from viruses. See help document in folders for more information.
+My biggest project in VB6. Antivirus program with dozen of tools to protect your computer from viruses. See help document in folders for more information.
 
 Images:
 -----------
