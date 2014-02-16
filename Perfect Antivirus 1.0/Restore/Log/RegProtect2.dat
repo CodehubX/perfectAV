@@ -1,0 +1,74 @@
+[1]
+TenChucNang=Windows Task Manager
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Policies\System
+KeyName=DisableTaskMgr
+KeyData=0
+[2]
+TenChucNang=Registry Editor
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Policies\System
+KeyName=DisableRegistryTools
+KeyData=0
+[3]
+TenChucNang=Internet Home Page
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Policies\Microsoft\Internet Explorer\Control Panel
+KeyName=HomePage
+KeyData=0
+[4]
+TenChucNang=DOS Mode
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Policies\WinOldApp
+KeyName=NoRealMode
+KeyData=0
+[5]
+TenChucNang=Control Panel
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+KeyName=NoControlPanel
+KeyData=0
+[6]
+TenChucNang=Nút LogOff
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+KeyName=NoLogoff
+KeyData=0
+[7]
+TenChucNang=Nút Turn Off
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+KeyName=NoClose
+KeyData=0
+[8]
+TenChucNang=Hộp thoại RUN
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+KeyName=NoRun
+KeyData=0
+[9]
+TenChucNang=Folder Options
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+KeyName=NoFolderOptions
+KeyData=0
+[10]
+TenChucNang=Tray Context Menu
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+KeyName=Notraycontextmenu
+KeyData=0
+[11]
+TenChucNang=View Context Menu
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+KeyName=Noviewcontextmenu
+KeyData=0
+[12]
+TenChucNang=Các lệnh trong RUN
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+KeyName=RestricRun
+KeyData=0
+[Other]
+Total=12

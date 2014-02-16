@@ -1,0 +1,140 @@
+﻿[1]
+TenChucNang=Windows Task Manager
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Policies\System
+KeyName=DisableTaskMgr
+KeyData=0
+[2]
+TenChucNang=Registry Editor
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Policies\System
+KeyName=DisableRegistryTools
+KeyData=0
+[3]
+TenChucNang=Internet Home Page
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Policies\Microsoft\Internet Explorer\Control Panel
+KeyName=HomePage
+KeyData=0
+[4]
+TenChucNang=DOS Mode
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Policies\WinOldApp
+KeyName=NoRealMode
+KeyData=0
+[5]
+TenChucNang=Control Panel
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+KeyName=NoControlPanel
+KeyData=0
+[6]
+TenChucNang=Nút LogOff
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+KeyName=NoLogoff
+KeyData=0
+[7]
+TenChucNang=Nút Turn Off
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+KeyName=NoClose
+KeyData=0
+[8]
+TenChucNang=Hộp thoại RUN
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+KeyName=NoRun
+KeyData=0
+[9]
+TenChucNang=Folder Options
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+KeyName=NoFolderOptions
+KeyData=0
+[10]
+TenChucNang=Tray Context Menu
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+KeyName=Notraycontextmenu
+KeyData=0
+[11]
+TenChucNang=View Context Menu
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+KeyName=Noviewcontextmenu
+KeyData=0
+[12]
+TenChucNang=Các lệnh trong RUN
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+KeyName=RestricRun
+KeyData=0
+[13]
+TenChucNang=Search
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+KeyName=NoFind
+KeyData=0
+[14]
+TenChucNang=Help Center
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+KeyName=NoSMHelp
+KeyData=0
+[15]
+TenChucNang=Computer Properties
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+KeyName=NoPropertiesMyComputer
+KeyData=0
+[16]
+TenChucNang=Command Prompt
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Policies\Microsoft\Windows\System
+KeyName=DisableCMD
+KeyData=0
+[17]
+TenChucNang=Ghi vào USB
+KeyGoc=HKEY_LOCAL_MACHINE
+KeyPath=SYSTEM\ControlSet001\Control\StorageDevicePolicies
+KeyName=WriteProtect
+KeyData=0
+[18]
+TenChucNang=Cho phép chạy USB
+KeyGoc=HKEY_LOCAL_MACHINE
+KeyPath=SYSTEM\ControlSet001\Services\USBSTOR
+KeyName=Start
+KeyData=3
+[19]
+TenChucNang=Hiện File ẩn
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+KeyName=Hidden
+KeyData=0
+[20]
+TenChucNang=Hiện File hệ thống
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+KeyName=ShowSuperHidden
+KeyData=0
+[21]
+TenChucNang=Hiện File Hệ Thống
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+KeyName=SuperHidden
+KeyData=0
+[22]
+TenChucNang=Hiển thị đuôi File
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+KeyName=HideFileExt
+KeyData=0
+[23]
+TenChucNang=Không Chạy Autorun Từ USB
+KeyGoc=HKEY_CURRENT_USER
+KeyPath=SOFTWARE\Microsoft\Windows\CurrentVersion\policies\Explorer
+KeyName=NoDriveTypeAutoRun
+KeyData=44
+[Other]
+Total=23

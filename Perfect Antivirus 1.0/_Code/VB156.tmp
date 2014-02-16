@@ -1,0 +1,2455 @@
+VERSION 5.00
+Object = "{D1ECD258-D329-4388-AB83-DEC261A66B86}#1.0#0"; "UniControls_v2.0.ocx"
+Begin VB.Form frmMain 
+   BackColor       =   &H80000005&
+   BorderStyle     =   1  'Fixed Single
+   Caption         =   "Perfect Antivirus 2009"
+   ClientHeight    =   8175
+   ClientLeft      =   585
+   ClientTop       =   570
+   ClientWidth     =   10230
+   BeginProperty Font 
+      Name            =   "Tahoma"
+      Size            =   8.25
+      Charset         =   0
+      Weight          =   400
+      Underline       =   0   'False
+      Italic          =   0   'False
+      Strikethrough   =   0   'False
+   EndProperty
+   Icon            =   "frmMain.frx":0000
+   LinkTopic       =   "Form1"
+   MaxButton       =   0   'False
+   ScaleHeight     =   8175
+   ScaleWidth      =   10230
+   StartUpPosition =   2  'CenterScreen
+   Begin UniControls.UniFrame fm 
+      Height          =   6735
+      Index           =   7
+      Left            =   7680
+      Top             =   8040
+      Width           =   7095
+      _ExtentX        =   12515
+      _ExtentY        =   11880
+      MaskColor       =   16711935
+      FrameColor      =   -2147483629
+      Style           =   0
+      Caption         =   "Ba3o ve65 vo71i USB"
+      TextColor       =   13579779
+      Alignment       =   0
+      BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+         Name            =   "Tahoma"
+         Size            =   8.25
+         Charset         =   0
+         Weight          =   400
+         Underline       =   0   'False
+         Italic          =   0   'False
+         Strikethrough   =   0   'False
+      EndProperty
+      Begin UniControls.UniLabel UniLabel31 
+         Height          =   495
+         Left            =   240
+         Top             =   360
+         Width           =   6615
+         _ExtentX        =   11668
+         _ExtentY        =   873
+         Alignment       =   1
+         Caption         =   "Ba3o ve65 USB"
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   9.75
+            Charset         =   0
+            Weight          =   700
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   255
+      End
+   End
+   Begin UniControls.UniFrame fm 
+      Height          =   6735
+      Index           =   6
+      Left            =   3720
+      Top             =   8040
+      Width           =   7095
+      _ExtentX        =   12515
+      _ExtentY        =   11880
+      MaskColor       =   16711935
+      FrameColor      =   -2147483629
+      Style           =   0
+      Caption         =   "Tu75 d9o65ng xo1a Autorun"
+      TextColor       =   13579779
+      Alignment       =   0
+      BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+         Name            =   "Tahoma"
+         Size            =   8.25
+         Charset         =   0
+         Weight          =   400
+         Underline       =   0   'False
+         Italic          =   0   'False
+         Strikethrough   =   0   'False
+      EndProperty
+      Begin UniControls.UniLabel UniLabel30 
+         Height          =   495
+         Left            =   120
+         Top             =   360
+         Width           =   6855
+         _ExtentX        =   12091
+         _ExtentY        =   873
+         Alignment       =   1
+         Caption         =   "Tu75 d9o65ng xo1a Autorun"
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   9.75
+            Charset         =   0
+            Weight          =   700
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   255
+      End
+   End
+   Begin UniControls.UniFrame fm 
+      Height          =   6735
+      Index           =   5
+      Left            =   3000
+      Top             =   1320
+      Width           =   7095
+      _ExtentX        =   12515
+      _ExtentY        =   11880
+      MaskColor       =   16711935
+      FrameColor      =   -2147483629
+      Style           =   0
+      Caption         =   "Ba3o ve65 Registry"
+      TextColor       =   13579779
+      Alignment       =   0
+      BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+         Name            =   "Tahoma"
+         Size            =   8.25
+         Charset         =   0
+         Weight          =   400
+         Underline       =   0   'False
+         Italic          =   0   'False
+         Strikethrough   =   0   'False
+      EndProperty
+      Begin VB.Timer atptmrREG 
+         Enabled         =   0   'False
+         Interval        =   5000
+         Left            =   5160
+         Top             =   600
+      End
+      Begin UniControls.UniButton cmdDelREG 
+         Height          =   375
+         Left            =   2280
+         TabIndex        =   56
+         Top             =   6240
+         Width           =   2895
+         _ExtentX        =   5106
+         _ExtentY        =   661
+         Icon            =   "frmMain.frx":57E2
+         Style           =   2
+         Caption         =   "Xo1a chu71c na8ng d9a4 d9a1nh da61u"
+         IconAlign       =   3
+         iNonThemeStyle  =   2
+         MaskColor       =   16711935
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         RoundedBordersByTheme=   0   'False
+         ShowFocusRectangle=   0   'False
+      End
+      Begin UniControls.UniLabel UniLabel34 
+         Height          =   255
+         Left            =   120
+         Top             =   1800
+         Width           =   6855
+         _ExtentX        =   12091
+         _ExtentY        =   450
+         Caption         =   "Ca1c chu71c na8ng d9ang d9u7o75c ba3o ve65. (Nha61n nu1t The6m Va2o d9e63 the6m chu71c na8ng ca62n ba3o ve65)."
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   16711680
+      End
+      Begin UniControls.UniButton atpREGAdd 
+         Height          =   375
+         Left            =   120
+         TabIndex        =   55
+         Top             =   6240
+         Width           =   2055
+         _ExtentX        =   3625
+         _ExtentY        =   661
+         Icon            =   "frmMain.frx":57FE
+         Style           =   2
+         Caption         =   "The6m va2o"
+         IconAlign       =   3
+         iNonThemeStyle  =   2
+         MaskColor       =   16711935
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         RoundedBordersByTheme=   0   'False
+         ShowFocusRectangle=   0   'False
+      End
+      Begin UniControls.UniListView atpLVREG 
+         Height          =   3975
+         Left            =   120
+         TabIndex        =   54
+         Top             =   2160
+         Width           =   6855
+         _ExtentX        =   12091
+         _ExtentY        =   7011
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         MultiSelect     =   -1  'True
+         LabelEdit       =   0   'False
+         AutoArrange     =   0   'False
+         HeaderButtons   =   0   'False
+         HeaderTrackSelect=   0   'False
+         HideSelection   =   0   'False
+         InfoTips        =   0   'False
+      End
+      Begin UniControls.UniLabel UniLabel29 
+         Height          =   255
+         Left            =   120
+         Top             =   240
+         Width           =   6855
+         _ExtentX        =   12091
+         _ExtentY        =   450
+         Alignment       =   1
+         BackStyle       =   0
+         Caption         =   "Tu75 d9o65ng ba3o ve65 Registry"
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   9.75
+            Charset         =   0
+            Weight          =   700
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   255
+      End
+      Begin UniControls.UniLabel UniLabel32 
+         Height          =   495
+         Left            =   240
+         Top             =   1080
+         Width           =   6615
+         _ExtentX        =   11668
+         _ExtentY        =   873
+         BackStyle       =   0
+         Caption         =   $"frmMain.frx":5D98
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   33023
+      End
+      Begin UniControls.UniButton atpcmdREG 
+         Height          =   375
+         Left            =   2400
+         TabIndex        =   53
+         Top             =   600
+         Width           =   2295
+         _ExtentX        =   4048
+         _ExtentY        =   661
+         Style           =   2
+         Caption         =   "Ta81t chu71c na8ng na2y"
+         IconAlign       =   3
+         iNonThemeStyle  =   2
+         MaskColor       =   16711935
+         FontColor       =   16711680
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   9.75
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         RoundedBordersByTheme=   0   'False
+         ShowFocusRectangle=   0   'False
+      End
+      Begin UniControls.UniLabel UniLabel33 
+         Height          =   255
+         Left            =   360
+         Top             =   1560
+         Width           =   2655
+         _ExtentX        =   4683
+         _ExtentY        =   450
+         Caption         =   "Ti2nh tra5ng cu3a chu71c na8ng na2y:"
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   700
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   16711680
+      End
+      Begin UniControls.UniLabel atplblUSB 
+         Height          =   255
+         Left            =   3120
+         Top             =   1560
+         Width           =   2175
+         _ExtentX        =   3836
+         _ExtentY        =   450
+         Caption         =   "D9ang mo73"
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   700
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   16576
+      End
+   End
+   Begin UniControls.UniFrame fm 
+      Height          =   6735
+      Index           =   4
+      Left            =   3000
+      Top             =   1320
+      Width           =   7095
+      _ExtentX        =   12515
+      _ExtentY        =   11880
+      MaskColor       =   16711935
+      FrameColor      =   -2147483629
+      Style           =   0
+      Caption         =   "Nha65t Ky1 Virus"
+      TextColor       =   13579779
+      Alignment       =   0
+      BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+         Name            =   "Tahoma"
+         Size            =   8.25
+         Charset         =   0
+         Weight          =   400
+         Underline       =   0   'False
+         Italic          =   0   'False
+         Strikethrough   =   0   'False
+      EndProperty
+      Begin UniControls.UniButton cmdDelSelected 
+         Height          =   375
+         Left            =   1680
+         TabIndex        =   52
+         Top             =   6240
+         Width           =   1935
+         _ExtentX        =   3413
+         _ExtentY        =   661
+         Icon            =   "frmMain.frx":5E76
+         Style           =   2
+         Caption         =   "Xo1a mu5c d9a4 cho5n"
+         IconAlign       =   3
+         iNonThemeStyle  =   2
+         MaskColor       =   16711935
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         RoundedBordersByTheme=   0   'False
+         ShowFocusRectangle=   0   'False
+      End
+      Begin UniControls.UniButton cmdEventsVirusKillAll 
+         Height          =   375
+         Left            =   120
+         TabIndex        =   51
+         Top             =   6240
+         Width           =   1335
+         _ExtentX        =   2355
+         _ExtentY        =   661
+         Icon            =   "frmMain.frx":6410
+         Style           =   2
+         Caption         =   "Xo1a he61t"
+         IconAlign       =   3
+         iNonThemeStyle  =   2
+         MaskColor       =   16711935
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         RoundedBordersByTheme=   0   'False
+         ShowFocusRectangle=   0   'False
+      End
+      Begin UniControls.UniLabel UniLabel28 
+         Height          =   375
+         Left            =   240
+         Top             =   720
+         Width           =   6735
+         _ExtentX        =   11880
+         _ExtentY        =   661
+         Caption         =   "Ghi che1p ca1c la62n que1t Virus cu3a ba5n."
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   33023
+      End
+      Begin UniControls.UniListView LVVirusEvents 
+         Height          =   4935
+         Left            =   120
+         TabIndex        =   50
+         Top             =   1200
+         Width           =   6855
+         _ExtentX        =   12091
+         _ExtentY        =   8705
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         MultiSelect     =   -1  'True
+         LabelEdit       =   0   'False
+         AutoArrange     =   0   'False
+         CheckBoxes      =   -1  'True
+         HeaderButtons   =   0   'False
+         HeaderTrackSelect=   0   'False
+         HideSelection   =   0   'False
+         InfoTips        =   0   'False
+      End
+      Begin UniControls.UniLabel UniLabel27 
+         Height          =   375
+         Left            =   360
+         Top             =   360
+         Width           =   6375
+         _ExtentX        =   11245
+         _ExtentY        =   661
+         Alignment       =   1
+         Caption         =   "Nha65t ky1 ca1c la62n que1t Virus"
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   9.75
+            Charset         =   0
+            Weight          =   700
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   255
+      End
+   End
+   Begin UniControls.UniFrame fm 
+      Height          =   6735
+      Index           =   3
+      Left            =   3000
+      Top             =   1320
+      Visible         =   0   'False
+      Width           =   7095
+      _ExtentX        =   12515
+      _ExtentY        =   11880
+      MaskColor       =   16711935
+      FrameColor      =   -2147483629
+      Style           =   0
+      Caption         =   "Ca61u hi2nh que1t"
+      TextColor       =   13579779
+      Alignment       =   0
+      BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+         Name            =   "Tahoma"
+         Size            =   8.25
+         Charset         =   0
+         Weight          =   400
+         Underline       =   0   'False
+         Italic          =   0   'False
+         Strikethrough   =   0   'False
+      EndProperty
+      Begin UniControls.UniLabel UniLabel17 
+         Height          =   375
+         Left            =   240
+         Top             =   600
+         Width           =   6615
+         _ExtentX        =   11668
+         _ExtentY        =   661
+         Caption         =   "- Ha4y ca2i d9a85t ca61u hi2nh que1t cho phu2 ho75p d9e63 co1 d9u7o75c ke61t qua3 que1t to61t nha61t."
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   33023
+      End
+      Begin UniControls.UniButton cmdFullScan 
+         Height          =   375
+         Left            =   360
+         TabIndex        =   31
+         Top             =   4080
+         Width           =   1695
+         _ExtentX        =   2990
+         _ExtentY        =   661
+         Icon            =   "frmMain.frx":69AA
+         Style           =   2
+         Caption         =   "Que1t Virus Toa2n Bo65"
+         IconAlign       =   3
+         iNonThemeStyle  =   2
+         MaskColor       =   16711935
+         FontColor       =   255
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         RoundedBordersByTheme=   0   'False
+         ShowFocusRectangle=   0   'False
+      End
+      Begin UniControls.UniCheckBox VSdll 
+         Height          =   195
+         Left            =   2040
+         TabIndex        =   29
+         Top             =   1680
+         Width           =   705
+         _ExtentX        =   1244
+         _ExtentY        =   344
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Value           =   -1  'True
+         Caption         =   "*.DLL"
+         ForeColor       =   0
+      End
+      Begin UniControls.UniLabel UniLabel11 
+         Height          =   255
+         Left            =   240
+         Top             =   2160
+         Width           =   1695
+         _ExtentX        =   2990
+         _ExtentY        =   450
+         Caption         =   "Chu71c Na8ng Que1t:"
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   700
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   16711680
+      End
+      Begin UniControls.NumbericUpDown VSLimitSize 
+         Height          =   330
+         Left            =   3480
+         TabIndex        =   28
+         Top             =   3120
+         Width           =   615
+         _ExtentX        =   1085
+         _ExtentY        =   582
+         Locked          =   -1  'True
+         Text            =   "1"
+         Max             =   10
+         Min             =   1
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+      End
+      Begin UniControls.UniLabel UniLabel10 
+         Height          =   255
+         Left            =   4200
+         Top             =   3240
+         Width           =   855
+         _ExtentX        =   1508
+         _ExtentY        =   450
+         Caption         =   "MB"
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+      End
+      Begin UniControls.UniCheckBox VSDontScanSize 
+         Height          =   195
+         Left            =   360
+         TabIndex        =   27
+         Top             =   3240
+         Width           =   3060
+         _ExtentX        =   5398
+         _ExtentY        =   344
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Value           =   -1  'True
+         Caption         =   "Bo3 qua ca1c File co1 dung lu7o75ng lo71n ho7n:"
+         ForeColor       =   0
+      End
+      Begin UniControls.UniCheckBox VSScanProcess 
+         Height          =   195
+         Left            =   360
+         TabIndex        =   26
+         Top             =   2880
+         Width           =   3510
+         _ExtentX        =   6191
+         _ExtentY        =   344
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Value           =   -1  'True
+         Caption         =   "Que1t ca1c u71ng du5ng d9ang cha5y trong bo65 nho71."
+         ForeColor       =   0
+      End
+      Begin UniControls.UniCheckBox VSScanStartUp 
+         Height          =   195
+         Left            =   360
+         TabIndex        =   25
+         Top             =   2520
+         Width           =   3780
+         _ExtentX        =   6668
+         _ExtentY        =   344
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Value           =   -1  'True
+         Caption         =   "Que1t ca1c chu7o7ng tri2nh kho73i d9o65ng cu2ng he65 tho61ng."
+         ForeColor       =   0
+      End
+      Begin UniControls.UniLabel UniLabel7 
+         Height          =   255
+         Left            =   120
+         Top             =   240
+         Width           =   6855
+         _ExtentX        =   12091
+         _ExtentY        =   450
+         Alignment       =   1
+         Caption         =   "Ca2i D9a85t Ca61u Hi2nh Que1t"
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   9.75
+            Charset         =   0
+            Weight          =   700
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   255
+      End
+      Begin UniControls.UniLabel UniLabel9 
+         Height          =   255
+         Left            =   240
+         Top             =   1080
+         Width           =   1455
+         _ExtentX        =   2566
+         _ExtentY        =   450
+         Caption         =   "Kie63u File Que1t:"
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   700
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   16711680
+      End
+      Begin UniControls.UniCheckBox VSexe 
+         Height          =   195
+         Left            =   360
+         TabIndex        =   20
+         Top             =   1440
+         Width           =   720
+         _ExtentX        =   1270
+         _ExtentY        =   344
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Value           =   -1  'True
+         Caption         =   "*.EXE"
+         Enabled         =   0   'False
+         ForeColor       =   0
+      End
+      Begin UniControls.UniCheckBox VSbat 
+         Height          =   195
+         Left            =   360
+         TabIndex        =   21
+         Top             =   1680
+         Width           =   735
+         _ExtentX        =   1296
+         _ExtentY        =   344
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Value           =   -1  'True
+         Caption         =   "*.BAT"
+         ForeColor       =   0
+      End
+      Begin UniControls.UniCheckBox VScom 
+         Height          =   195
+         Left            =   1200
+         TabIndex        =   22
+         Top             =   1440
+         Width           =   795
+         _ExtentX        =   1402
+         _ExtentY        =   344
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Value           =   -1  'True
+         Caption         =   "*.COM"
+         ForeColor       =   0
+      End
+      Begin UniControls.UniCheckBox VScmd 
+         Height          =   195
+         Left            =   1200
+         TabIndex        =   23
+         Top             =   1680
+         Width           =   780
+         _ExtentX        =   1376
+         _ExtentY        =   344
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Value           =   -1  'True
+         Caption         =   "*.CMD"
+         ForeColor       =   0
+      End
+      Begin UniControls.UniCheckBox VSscr 
+         Height          =   195
+         Left            =   2040
+         TabIndex        =   24
+         Top             =   1440
+         Width           =   750
+         _ExtentX        =   1323
+         _ExtentY        =   344
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Value           =   -1  'True
+         Caption         =   "*.SCR"
+         ForeColor       =   0
+      End
+   End
+   Begin UniControls.UniFrame fm 
+      Height          =   6735
+      Index           =   2
+      Left            =   3000
+      Top             =   1320
+      Width           =   7095
+      _ExtentX        =   12515
+      _ExtentY        =   11880
+      MaskColor       =   16711935
+      FrameColor      =   -2147483629
+      Style           =   0
+      Caption         =   "Tu75 d9o65ng que1t"
+      TextColor       =   13579779
+      Alignment       =   0
+      BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+         Name            =   "Tahoma"
+         Size            =   8.25
+         Charset         =   0
+         Weight          =   400
+         Underline       =   0   'False
+         Italic          =   0   'False
+         Strikethrough   =   0   'False
+      EndProperty
+      Begin UniControls.UniLabel UniLabel26 
+         Height          =   255
+         Left            =   480
+         Top             =   4920
+         Width           =   5895
+         _ExtentX        =   10398
+         _ExtentY        =   450
+         Caption         =   "[Tu75 d9o65ng que1t va2 kie63m tra Keylogger mo64i 5 phu1t]"
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   33023
+      End
+      Begin UniControls.UniCheckBox atsScanKeylogger 
+         Height          =   195
+         Left            =   240
+         TabIndex        =   48
+         Top             =   4680
+         Width           =   3375
+         _ExtentX        =   5953
+         _ExtentY        =   344
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Value           =   -1  'True
+         Caption         =   "Tu75 d9o65ng pha1t hie65n va2 ca3nh ba1o Keylogger."
+         ForeColor       =   0
+         ShowFocusRectangle=   0   'False
+      End
+      Begin UniControls.UniLabel UniLabel25 
+         Height          =   255
+         Left            =   480
+         Top             =   4320
+         Width           =   6495
+         _ExtentX        =   11456
+         _ExtentY        =   450
+         Caption         =   "[Ba5n ne6n su73 du5ng chu71c na8ng na2y d9e63 d9a3m ba3o cho USB cu3a ba5n tra1nh kho3i Virus.]"
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   33023
+      End
+      Begin UniControls.UniCheckBox atsAutoScanUSB 
+         Height          =   195
+         Left            =   240
+         TabIndex        =   34
+         Top             =   4080
+         Width           =   5145
+         _ExtentX        =   9075
+         _ExtentY        =   344
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Value           =   -1  'True
+         Caption         =   "Tu75 d9o65ng que1t Virus cho USB khi pha1t hie65n USB ke61t no61i va2o ma1y ti1nh."
+         ForeColor       =   0
+         ShowFocusRectangle=   0   'False
+      End
+      Begin UniControls.UniLabel UniLabel19 
+         Height          =   495
+         Left            =   480
+         Top             =   3600
+         Width           =   6495
+         _ExtentX        =   11456
+         _ExtentY        =   873
+         Caption         =   $"frmMain.frx":69C6
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   33023
+      End
+      Begin UniControls.UniLabel UniLabel18 
+         Height          =   855
+         Left            =   480
+         Top             =   2400
+         Width           =   6375
+         _ExtentX        =   11245
+         _ExtentY        =   1508
+         Caption         =   $"frmMain.frx":6A4D
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   33023
+      End
+      Begin UniControls.UniCheckBox atsAlwaysScanFolder 
+         Height          =   195
+         Left            =   240
+         TabIndex        =   33
+         Top             =   3360
+         Width           =   4815
+         _ExtentX        =   8493
+         _ExtentY        =   344
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Value           =   -1  'True
+         Caption         =   "Tu75 d9o65ng que1t va2 ca3nh ba1o Virus trong Thu7 mu5c d9ang d9u7o75c mo73."
+         ForeColor       =   0
+         ShowFocusRectangle=   0   'False
+      End
+      Begin UniControls.UniCheckBox atsScanEXE 
+         Height          =   195
+         Left            =   240
+         TabIndex        =   32
+         Top             =   2160
+         Width           =   4710
+         _ExtentX        =   8308
+         _ExtentY        =   344
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Value           =   -1  'True
+         Caption         =   "Tu75 d9o65ng que1t va2 ca3nh ba1o Virus cho nhu74ng File sa81p d9u7o75c mo73."
+         ForeColor       =   0
+         ShowFocusRectangle=   0   'False
+      End
+      Begin UniControls.UniLabel UniLabel16 
+         Height          =   735
+         Left            =   240
+         Top             =   960
+         Width           =   6615
+         _ExtentX        =   11668
+         _ExtentY        =   1296
+         Caption         =   $"frmMain.frx":6BC9
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   33023
+      End
+      Begin UniControls.UniLabel UniLabel15 
+         Height          =   375
+         Left            =   120
+         Top             =   480
+         Width           =   6855
+         _ExtentX        =   12091
+         _ExtentY        =   661
+         Alignment       =   1
+         Caption         =   "Ca2i d9a85t chu71c na8ng tu75 d9o65ng que1t"
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   9.75
+            Charset         =   0
+            Weight          =   700
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   255
+      End
+   End
+   Begin UniControls.UniTrayIcon Tray1 
+      Left            =   8280
+      Top             =   120
+      _ExtentX        =   953
+      _ExtentY        =   953
+      TooltipText     =   "Perfect Antivirus 2009 - Ma1y ti1nh cu3a ba5n d9ang o73 ti2nh tra5ng to61t nha61t!"
+      Icon            =   "frmMain.frx":6CF8
+   End
+   Begin UniControls.UniFrame fm 
+      Height          =   6735
+      Index           =   1
+      Left            =   3000
+      Top             =   1320
+      Width           =   7095
+      _ExtentX        =   12515
+      _ExtentY        =   11880
+      MaskColor       =   16711935
+      FrameColor      =   -2147483629
+      Style           =   0
+      Caption         =   "Que1t tu2y cho5n"
+      TextColor       =   13579779
+      Alignment       =   0
+      BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+         Name            =   "Tahoma"
+         Size            =   8.25
+         Charset         =   0
+         Weight          =   400
+         Underline       =   0   'False
+         Italic          =   0   'False
+         Strikethrough   =   0   'False
+      EndProperty
+      Begin UniControls.UniButton csBack 
+         Height          =   375
+         Left            =   6480
+         TabIndex        =   47
+         Top             =   6000
+         Width           =   375
+         _ExtentX        =   661
+         _ExtentY        =   661
+         Icon            =   "frmMain.frx":1BE6A
+         Style           =   2
+         IconAlign       =   2
+         iNonThemeStyle  =   2
+         Enabled         =   0   'False
+         BackColor       =   15398133
+         MaskColor       =   16711935
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         RoundedBordersByTheme=   0   'False
+         ShowFocusRectangle=   0   'False
+      End
+      Begin UniControls.UniButton csKill 
+         Height          =   375
+         Left            =   4560
+         TabIndex        =   46
+         Top             =   6000
+         Width           =   1215
+         _ExtentX        =   2143
+         _ExtentY        =   661
+         Icon            =   "frmMain.frx":1C87C
+         Style           =   2
+         Caption         =   "Die65t"
+         IconAlign       =   3
+         iNonThemeStyle  =   2
+         BackColor       =   15398133
+         MaskColor       =   16711935
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         RoundedBordersByTheme=   0   'False
+         ShowFocusRectangle=   0   'False
+      End
+      Begin UniControls.UniButton csCachLy 
+         Height          =   375
+         Left            =   3120
+         TabIndex        =   45
+         Top             =   6000
+         Width           =   1335
+         _ExtentX        =   2355
+         _ExtentY        =   661
+         Icon            =   "frmMain.frx":1C898
+         Style           =   2
+         Caption         =   "Ca1ch Ly"
+         IconAlign       =   3
+         iNonThemeStyle  =   2
+         BackColor       =   15398133
+         MaskColor       =   16711935
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         RoundedBordersByTheme=   0   'False
+         ShowFocusRectangle=   0   'False
+      End
+      Begin UniControls.UniButton csStop 
+         Height          =   375
+         Left            =   1680
+         TabIndex        =   44
+         Top             =   6000
+         Width           =   1335
+         _ExtentX        =   2355
+         _ExtentY        =   661
+         Icon            =   "frmMain.frx":1C8B4
+         Style           =   2
+         Caption         =   "Du72ng"
+         IconAlign       =   3
+         iNonThemeStyle  =   2
+         Enabled         =   0   'False
+         MaskColor       =   16711935
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         RoundedBordersByTheme=   0   'False
+         ShowFocusRectangle=   0   'False
+      End
+      Begin UniControls.UniButton csStart 
+         Height          =   375
+         Left            =   240
+         TabIndex        =   43
+         Top             =   6000
+         Width           =   1335
+         _ExtentX        =   2355
+         _ExtentY        =   661
+         Icon            =   "frmMain.frx":1CE4E
+         Style           =   2
+         Caption         =   "Que1t"
+         IconAlign       =   3
+         iNonThemeStyle  =   2
+         MaskColor       =   16711935
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         RoundedBordersByTheme=   0   'False
+         ShowFocusRectangle=   0   'False
+      End
+      Begin UniControls.UniFrame ff 
+         Height          =   4815
+         Left            =   120
+         Top             =   1080
+         Width           =   6855
+         _ExtentX        =   12091
+         _ExtentY        =   8493
+         MaskColor       =   16711935
+         FrameColor      =   -2147483629
+         Style           =   0
+         Caption         =   ""
+         TextColor       =   13579779
+         Alignment       =   0
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Begin UniControls.UniLabel cslblPath 
+            Height          =   615
+            Left            =   120
+            Top             =   1680
+            Width           =   6615
+            _ExtentX        =   11668
+            _ExtentY        =   1085
+            Caption         =   ""
+            BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+               Name            =   "Tahoma"
+               Size            =   8.25
+               Charset         =   0
+               Weight          =   400
+               Underline       =   0   'False
+               Italic          =   0   'False
+               Strikethrough   =   0   'False
+            EndProperty
+         End
+         Begin UniControls.UniCheckBox CScom 
+            Height          =   195
+            Left            =   3120
+            TabIndex        =   36
+            Top             =   1080
+            Width           =   795
+            _ExtentX        =   1402
+            _ExtentY        =   344
+            BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+               Name            =   "Tahoma"
+               Size            =   8.25
+               Charset         =   0
+               Weight          =   400
+               Underline       =   0   'False
+               Italic          =   0   'False
+               Strikethrough   =   0   'False
+            EndProperty
+            Value           =   -1  'True
+            Caption         =   "*.COM"
+            ForeColor       =   0
+            ShowFocusRectangle=   0   'False
+         End
+         Begin UniControls.UniCheckBox CSbat 
+            Height          =   195
+            Left            =   2280
+            TabIndex        =   37
+            Top             =   1080
+            Width           =   735
+            _ExtentX        =   1296
+            _ExtentY        =   344
+            BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+               Name            =   "Tahoma"
+               Size            =   8.25
+               Charset         =   0
+               Weight          =   400
+               Underline       =   0   'False
+               Italic          =   0   'False
+               Strikethrough   =   0   'False
+            EndProperty
+            Value           =   -1  'True
+            Caption         =   "*.BAT"
+            ForeColor       =   0
+            ShowFocusRectangle=   0   'False
+         End
+         Begin UniControls.UniCheckBox CSexe 
+            Height          =   195
+            Left            =   1440
+            TabIndex        =   38
+            Top             =   1080
+            Width           =   720
+            _ExtentX        =   1270
+            _ExtentY        =   344
+            BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+               Name            =   "Tahoma"
+               Size            =   8.25
+               Charset         =   0
+               Weight          =   400
+               Underline       =   0   'False
+               Italic          =   0   'False
+               Strikethrough   =   0   'False
+            EndProperty
+            Value           =   -1  'True
+            Caption         =   "*.EXE"
+            Enabled         =   0   'False
+            ForeColor       =   0
+            ShowFocusRectangle=   0   'False
+         End
+         Begin UniControls.UniLabel UniLabel24 
+            Height          =   255
+            Left            =   240
+            Top             =   1080
+            Width           =   1815
+            _ExtentX        =   3201
+            _ExtentY        =   450
+            Caption         =   "Kie63u File Que1t:"
+            BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+               Name            =   "Tahoma"
+               Size            =   8.25
+               Charset         =   0
+               Weight          =   400
+               Underline       =   0   'False
+               Italic          =   0   'False
+               Strikethrough   =   0   'False
+            EndProperty
+         End
+         Begin UniControls.UniCheckBox CSprocess 
+            Height          =   195
+            Left            =   240
+            TabIndex        =   39
+            Top             =   840
+            Width           =   3735
+            _ExtentX        =   6588
+            _ExtentY        =   344
+            BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+               Name            =   "Tahoma"
+               Size            =   8.25
+               Charset         =   0
+               Weight          =   400
+               Underline       =   0   'False
+               Italic          =   0   'False
+               Strikethrough   =   0   'False
+            EndProperty
+            Value           =   -1  'True
+            Caption         =   "Que1t ca1c chu7o7ng tri2nh d9ang cha5y trong bo65 nho71."
+            ForeColor       =   0
+            ShowFocusRectangle=   0   'False
+         End
+         Begin UniControls.UniCheckBox CSStartUp 
+            Height          =   195
+            Left            =   240
+            TabIndex        =   40
+            Top             =   600
+            Width           =   3780
+            _ExtentX        =   6668
+            _ExtentY        =   344
+            BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+               Name            =   "Tahoma"
+               Size            =   8.25
+               Charset         =   0
+               Weight          =   400
+               Underline       =   0   'False
+               Italic          =   0   'False
+               Strikethrough   =   0   'False
+            EndProperty
+            Value           =   -1  'True
+            Caption         =   "Que1t ca1c chu7o7ng tri2nh kho73i d9o65ng cu2ng he65 tho61ng."
+            ForeColor       =   0
+            ShowFocusRectangle=   0   'False
+         End
+         Begin UniControls.UniLabel UniLabel23 
+            Height          =   255
+            Left            =   120
+            Top             =   240
+            Width           =   3255
+            _ExtentX        =   5741
+            _ExtentY        =   450
+            Caption         =   "Tu2y cho5n que1t:"
+            BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+               Name            =   "Tahoma"
+               Size            =   8.25
+               Charset         =   0
+               Weight          =   400
+               Underline       =   0   'False
+               Italic          =   0   'False
+               Strikethrough   =   0   'False
+            EndProperty
+            ForeColor       =   16711680
+         End
+         Begin UniControls.UniFolderView CSFolderView1 
+            Height          =   2295
+            Left            =   120
+            TabIndex        =   41
+            Top             =   2400
+            Width           =   6615
+            _ExtentX        =   11668
+            _ExtentY        =   4048
+         End
+         Begin UniControls.UniLabel UniLabel22 
+            Height          =   255
+            Left            =   120
+            Top             =   1440
+            Width           =   1455
+            _ExtentX        =   2566
+            _ExtentY        =   450
+            Caption         =   "Cho5n no7i ca62n que1t:"
+            BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+               Name            =   "Tahoma"
+               Size            =   8.25
+               Charset         =   0
+               Weight          =   400
+               Underline       =   0   'False
+               Italic          =   0   'False
+               Strikethrough   =   0   'False
+            EndProperty
+            ForeColor       =   16711680
+         End
+      End
+      Begin UniControls.UniLabel UniLabel21 
+         Height          =   255
+         Left            =   240
+         Top             =   720
+         Width           =   6615
+         _ExtentX        =   11668
+         _ExtentY        =   450
+         Caption         =   "- Cho phe1p que1t theo y1 thi1ch cu3a ngu7o72i su73 du5ng."
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   33023
+      End
+      Begin UniControls.UniLabel UniLabel20 
+         Height          =   495
+         Left            =   240
+         Top             =   360
+         Width           =   6615
+         _ExtentX        =   11668
+         _ExtentY        =   873
+         Alignment       =   1
+         Caption         =   "Que1t Tu2y Cho5n"
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   9.75
+            Charset         =   0
+            Weight          =   700
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   255
+      End
+      Begin UniControls.UniListView LVVirus2 
+         Height          =   3135
+         Left            =   120
+         TabIndex        =   42
+         Top             =   1320
+         Width           =   6855
+         _ExtentX        =   12091
+         _ExtentY        =   5530
+         AutoUnicode     =   0   'False
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   255
+         MultiSelect     =   -1  'True
+         LabelEdit       =   0   'False
+         AutoArrange     =   0   'False
+         HeaderButtons   =   0   'False
+         HeaderTrackSelect=   0   'False
+         HideSelection   =   0   'False
+         InfoTips        =   0   'False
+      End
+      Begin UniControls.UniLabel cslblStatus 
+         Height          =   615
+         Left            =   120
+         Top             =   4800
+         Width           =   6855
+         _ExtentX        =   12091
+         _ExtentY        =   1085
+         AutoUnicode     =   0   'False
+         BackColor       =   -2147483644
+         Caption         =   ""
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   16711680
+      End
+      Begin UniControls.UniLabel cslblStatus2 
+         Height          =   255
+         Left            =   240
+         Top             =   5640
+         Width           =   6615
+         _ExtentX        =   11668
+         _ExtentY        =   450
+         Alignment       =   1
+         BackColor       =   -2147483644
+         Caption         =   "Sa84n sa2ng"
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   128
+      End
+   End
+   Begin VB.Timer tmrScanTime 
+      Enabled         =   0   'False
+      Interval        =   1000
+      Left            =   8160
+      Top             =   840
+   End
+   Begin VB.Timer tmrStartFullScan 
+      Enabled         =   0   'False
+      Interval        =   789
+      Left            =   9000
+      Top             =   720
+   End
+   Begin UniControls.UniFrame fm 
+      Height          =   6735
+      Index           =   0
+      Left            =   3000
+      Top             =   1320
+      Width           =   7095
+      _ExtentX        =   12515
+      _ExtentY        =   11880
+      MaskColor       =   16711935
+      FrameColor      =   -2147483629
+      Style           =   0
+      Caption         =   "Que1t Toa2n Bo65"
+      TextColor       =   13579779
+      Alignment       =   0
+      BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+         Name            =   "Tahoma"
+         Size            =   8.25
+         Charset         =   0
+         Weight          =   400
+         Underline       =   0   'False
+         Italic          =   0   'False
+         Strikethrough   =   0   'False
+      EndProperty
+      Begin UniControls.UniLabel UniLabel13 
+         Height          =   255
+         Left            =   4920
+         Top             =   5400
+         Width           =   135
+         _ExtentX        =   238
+         _ExtentY        =   450
+         Caption         =   ":"
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   255
+      End
+      Begin UniControls.UniLabel lblScanTime 
+         Height          =   255
+         Index           =   0
+         Left            =   4680
+         Top             =   5400
+         Width           =   255
+         _ExtentX        =   450
+         _ExtentY        =   450
+         Caption         =   "00"
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   255
+      End
+      Begin UniControls.UniLabel UniLabel12 
+         Height          =   255
+         Left            =   3240
+         Top             =   5400
+         Width           =   1335
+         _ExtentX        =   2355
+         _ExtentY        =   450
+         Caption         =   "Tho72i gian que1t:"
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   700
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   16711680
+      End
+      Begin UniControls.UniButton cmdSettingFullScan 
+         Height          =   255
+         Left            =   4920
+         TabIndex        =   30
+         Top             =   1800
+         Width           =   2055
+         _ExtentX        =   3625
+         _ExtentY        =   450
+         Icon            =   "frmMain.frx":1D860
+         Style           =   2
+         Caption         =   "Ca2i d9a85t ca61u hi2nh que1t"
+         IconAlign       =   3
+         iNonThemeStyle  =   2
+         MaskColor       =   16711935
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         RoundedBordersByTheme=   0   'False
+         ShowFocusRectangle=   0   'False
+      End
+      Begin UniControls.UniLabel lblStatus2 
+         Height          =   255
+         Left            =   240
+         Top             =   6360
+         Width           =   6615
+         _ExtentX        =   11668
+         _ExtentY        =   450
+         Alignment       =   1
+         Caption         =   "Sa84n Sa2ng"
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   128
+      End
+      Begin UniControls.UniLabel lblStatus 
+         Height          =   615
+         Left            =   120
+         Top             =   5640
+         Width           =   6855
+         _ExtentX        =   12091
+         _ExtentY        =   1085
+         BackStyle       =   0
+         Caption         =   ""
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   16711680
+         Link            =   ""
+      End
+      Begin UniControls.UniLabel UniLabel8 
+         Height          =   255
+         Left            =   120
+         Top             =   5400
+         Width           =   2055
+         _ExtentX        =   3625
+         _ExtentY        =   450
+         Caption         =   "Ti2nh Tra5ng Que1t:"
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   700
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   16711680
+      End
+      Begin UniControls.UniButton cmdFSKillVirus 
+         Height          =   375
+         Left            =   4440
+         TabIndex        =   19
+         Top             =   4920
+         Width           =   1335
+         _ExtentX        =   2355
+         _ExtentY        =   661
+         Icon            =   "frmMain.frx":1D87C
+         Style           =   2
+         Caption         =   "Die65t Virus"
+         IconAlign       =   3
+         iNonThemeStyle  =   2
+         BackColor       =   15398133
+         MaskColor       =   16711935
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         RoundedBordersByTheme=   0   'False
+         ShowFocusRectangle=   0   'False
+      End
+      Begin UniControls.UniButton cmdFSCachLy 
+         Height          =   375
+         Left            =   2640
+         TabIndex        =   18
+         Top             =   4920
+         Width           =   1695
+         _ExtentX        =   2990
+         _ExtentY        =   661
+         Icon            =   "frmMain.frx":1DE16
+         Style           =   2
+         Caption         =   "Ca1ch Ly Virus"
+         IconAlign       =   3
+         iNonThemeStyle  =   2
+         MaskColor       =   16711935
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         RoundedBordersByTheme=   0   'False
+         ShowFocusRectangle=   0   'False
+      End
+      Begin UniControls.UniButton cmdFSReport 
+         Height          =   375
+         Left            =   5880
+         TabIndex        =   17
+         Top             =   4920
+         Width           =   1095
+         _ExtentX        =   1931
+         _ExtentY        =   661
+         Icon            =   "frmMain.frx":1DE32
+         Style           =   2
+         Caption         =   "Ba1o Ca1o"
+         IconAlign       =   3
+         iNonThemeStyle  =   2
+         Enabled         =   0   'False
+         BackColor       =   15398133
+         MaskColor       =   16711935
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         RoundedBordersByTheme=   0   'False
+         ShowFocusRectangle=   0   'False
+      End
+      Begin UniControls.UniButton cmdFSStop 
+         Height          =   375
+         Left            =   1320
+         TabIndex        =   16
+         Top             =   4920
+         Width           =   1215
+         _ExtentX        =   2143
+         _ExtentY        =   661
+         Icon            =   "frmMain.frx":1E844
+         Style           =   2
+         Caption         =   "Du72ng"
+         IconAlign       =   3
+         Enabled         =   0   'False
+         MaskColor       =   16711935
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         RoundedBordersByTheme=   0   'False
+         ShowFocusRectangle=   0   'False
+      End
+      Begin UniControls.UniButton cmdFSStart 
+         Height          =   375
+         Left            =   120
+         TabIndex        =   15
+         Top             =   4920
+         Width           =   1095
+         _ExtentX        =   1931
+         _ExtentY        =   661
+         Icon            =   "frmMain.frx":1EDDE
+         Style           =   2
+         Caption         =   "Que1t"
+         IconAlign       =   3
+         iNonThemeStyle  =   2
+         MaskColor       =   16711935
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         RoundedBordersByTheme=   0   'False
+         ShowFocusRectangle=   0   'False
+      End
+      Begin UniControls.UniListView LVVirus1 
+         Height          =   2535
+         Left            =   120
+         TabIndex        =   14
+         Top             =   2280
+         Width           =   6855
+         _ExtentX        =   12091
+         _ExtentY        =   4471
+         AutoUnicode     =   0   'False
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   255
+         MultiSelect     =   -1  'True
+         LabelEdit       =   0   'False
+         AutoArrange     =   0   'False
+         HeaderButtons   =   0   'False
+         HeaderTrackSelect=   0   'False
+         HideSelection   =   0   'False
+         InfoTips        =   0   'False
+      End
+      Begin UniControls.UniLabel UniLabel6 
+         Height          =   255
+         Left            =   120
+         Top             =   1800
+         Width           =   6855
+         _ExtentX        =   12091
+         _ExtentY        =   450
+         Caption         =   "Chu1 Y1: Ha4y ca2i d9a85t ca61u hi2nh que1t tru7o71c khi ba81t d9a62u que1t."
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   700
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   255
+      End
+      Begin UniControls.UniLabel UniLabel5 
+         Height          =   255
+         Left            =   360
+         Top             =   1440
+         Width           =   3735
+         _ExtentX        =   6588
+         _ExtentY        =   450
+         Caption         =   "- Ca1c Chu7o7ng Tri2nh D9ang Cha5y Trong Bo65 Nho71."
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+      End
+      Begin UniControls.UniLabel UniLabel4 
+         Height          =   255
+         Left            =   360
+         Top             =   1200
+         Width           =   4575
+         _ExtentX        =   8070
+         _ExtentY        =   450
+         Caption         =   "- Ca1c Chu7o7nh Tri2nh Kho73i D9o65ng Cu2ng He65 Tho61ng."
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+      End
+      Begin UniControls.UniLabel UniLabel3 
+         Height          =   255
+         Left            =   360
+         Top             =   960
+         Width           =   2535
+         _ExtentX        =   4471
+         _ExtentY        =   450
+         Caption         =   "- Ta61t Ca3 Ca1c O63 D9i4a."
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+      End
+      Begin UniControls.UniLabel UniLabel2 
+         Height          =   255
+         Left            =   120
+         Top             =   720
+         Width           =   2295
+         _ExtentX        =   4048
+         _ExtentY        =   450
+         Caption         =   "D9i5a Chi3 Que1t:"
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   16711680
+      End
+      Begin UniControls.UniLabel UniLabel1 
+         Height          =   495
+         Left            =   120
+         Top             =   360
+         Width           =   6855
+         _ExtentX        =   12091
+         _ExtentY        =   873
+         Alignment       =   1
+         BackStyle       =   0
+         Caption         =   "Que1t Virus Toa2n Bo65"
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   9.75
+            Charset         =   0
+            Weight          =   700
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   255
+      End
+      Begin UniControls.UniLabel lblScanTime 
+         Height          =   255
+         Index           =   1
+         Left            =   5040
+         Top             =   5400
+         Width           =   255
+         _ExtentX        =   450
+         _ExtentY        =   450
+         Caption         =   "00"
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   255
+      End
+      Begin UniControls.UniLabel lblScanTime 
+         Height          =   255
+         Index           =   2
+         Left            =   5400
+         Top             =   5400
+         Width           =   255
+         _ExtentX        =   450
+         _ExtentY        =   450
+         Caption         =   "00"
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   255
+      End
+      Begin UniControls.UniLabel UniLabel14 
+         Height          =   255
+         Left            =   5280
+         Top             =   5400
+         Width           =   135
+         _ExtentX        =   238
+         _ExtentY        =   450
+         Caption         =   ":"
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   255
+      End
+   End
+   Begin VB.Timer tmrFirewall 
+      Enabled         =   0   'False
+      Interval        =   1
+      Left            =   960
+      Top             =   7560
+   End
+   Begin VB.Timer tmrProtect 
+      Enabled         =   0   'False
+      Interval        =   1
+      Left            =   600
+      Top             =   7560
+   End
+   Begin VB.Timer tmrQuetVirus 
+      Enabled         =   0   'False
+      Interval        =   1
+      Left            =   240
+      Top             =   7560
+   End
+   Begin UniControls.UniFrame fmMain 
+      Height          =   6735
+      Left            =   120
+      Top             =   1320
+      Width           =   2775
+      _ExtentX        =   4895
+      _ExtentY        =   11880
+      MaskColor       =   16711935
+      FrameColor      =   -2147483629
+      Style           =   0
+      Caption         =   "PAV 2009 - Chu71c na8ng"
+      TextColor       =   13579779
+      Alignment       =   0
+      BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+         Name            =   "Tahoma"
+         Size            =   8.25
+         Charset         =   0
+         Weight          =   400
+         Underline       =   0   'False
+         Italic          =   0   'False
+         Strikethrough   =   0   'False
+      EndProperty
+      Begin UniControls.UniAniPictureBox PicFirewall 
+         Height          =   375
+         Left            =   120
+         TabIndex        =   10
+         Top             =   2880
+         Width           =   2415
+         _ExtentX        =   4260
+         _ExtentY        =   661
+         BackColor       =   12648432
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Begin UniControls.UniButton cmdFirewallEvents 
+            Height          =   255
+            Left            =   120
+            TabIndex        =   13
+            Top             =   840
+            Width           =   2175
+            _ExtentX        =   3836
+            _ExtentY        =   450
+            Icon            =   "frmMain.frx":1F7F0
+            Style           =   2
+            Caption         =   "Nha65t Ky1 Truy Ca65p Internet"
+            IconAlign       =   3
+            iNonThemeStyle  =   2
+            MaskColor       =   16711935
+            BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+               Name            =   "Tahoma"
+               Size            =   8.25
+               Charset         =   0
+               Weight          =   400
+               Underline       =   0   'False
+               Italic          =   0   'False
+               Strikethrough   =   0   'False
+            EndProperty
+            RoundedBordersByTheme=   0   'False
+            ShowFocusRectangle=   0   'False
+         End
+         Begin UniControls.UniButton cmdFirewallSetting 
+            Height          =   255
+            Left            =   240
+            TabIndex        =   12
+            Top             =   480
+            Width           =   2055
+            _ExtentX        =   3625
+            _ExtentY        =   450
+            Icon            =   "frmMain.frx":1F80C
+            Style           =   2
+            Caption         =   "Ca2i D9a85t Cho Tu7o72ng Lu73a"
+            IconAlign       =   3
+            iNonThemeStyle  =   2
+            MaskColor       =   16711935
+            BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+               Name            =   "Tahoma"
+               Size            =   8.25
+               Charset         =   0
+               Weight          =   400
+               Underline       =   0   'False
+               Italic          =   0   'False
+               Strikethrough   =   0   'False
+            EndProperty
+            RoundedBordersByTheme=   0   'False
+            ShowFocusRectangle=   0   'False
+         End
+         Begin UniControls.UniButton cmdFirewall 
+            Height          =   375
+            Left            =   0
+            TabIndex        =   11
+            Top             =   0
+            Width           =   2415
+            _ExtentX        =   4260
+            _ExtentY        =   661
+            Style           =   2
+            Caption         =   "Tu7o72ng Lu73a Internet"
+            IconSize        =   48
+            IconAlign       =   3
+            iNonThemeStyle  =   2
+            MaskColor       =   16711935
+            BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+               Name            =   "Tahoma"
+               Size            =   8.25
+               Charset         =   0
+               Weight          =   400
+               Underline       =   0   'False
+               Italic          =   0   'False
+               Strikethrough   =   0   'False
+            EndProperty
+            RoundedBordersByTheme=   0   'False
+            ShowFocusRectangle=   0   'False
+         End
+      End
+      Begin UniControls.UniAniPictureBox PicProtect 
+         Height          =   1935
+         Left            =   120
+         TabIndex        =   5
+         Top             =   840
+         Width           =   2415
+         _ExtentX        =   4260
+         _ExtentY        =   3413
+         BackColor       =   12648432
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Begin UniControls.UniButton cmdVirus 
+            Height          =   255
+            Index           =   2
+            Left            =   240
+            TabIndex        =   49
+            Top             =   1560
+            Width           =   2055
+            _ExtentX        =   3625
+            _ExtentY        =   450
+            Icon            =   "frmMain.frx":1F828
+            Style           =   2
+            Caption         =   "Tu75 D9o65ng Que1t"
+            IconAlign       =   3
+            iNonThemeStyle  =   2
+            MaskColor       =   16711935
+            BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+               Name            =   "Tahoma"
+               Size            =   8.25
+               Charset         =   0
+               Weight          =   400
+               Underline       =   0   'False
+               Italic          =   0   'False
+               Strikethrough   =   0   'False
+            EndProperty
+            RoundedBordersByTheme=   0   'False
+            ShowFocusRectangle=   0   'False
+         End
+         Begin UniControls.UniButton cmdAutoProtect 
+            Height          =   375
+            Left            =   0
+            TabIndex        =   9
+            Top             =   0
+            Width           =   2415
+            _ExtentX        =   4260
+            _ExtentY        =   661
+            Icon            =   "frmMain.frx":1F844
+            Style           =   2
+            Caption         =   "Tu75 D9o65ng Ba3o Ve65"
+            IconAlign       =   3
+            iNonThemeStyle  =   2
+            MaskColor       =   16711935
+            BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+               Name            =   "Tahoma"
+               Size            =   8.25
+               Charset         =   0
+               Weight          =   400
+               Underline       =   0   'False
+               Italic          =   0   'False
+               Strikethrough   =   0   'False
+            EndProperty
+            RoundedBordersByTheme=   0   'False
+            ShowFocusRectangle=   0   'False
+         End
+         Begin UniControls.UniButton cmdVirus 
+            Height          =   255
+            Index           =   7
+            Left            =   240
+            TabIndex        =   8
+            Top             =   1200
+            Width           =   2055
+            _ExtentX        =   3625
+            _ExtentY        =   450
+            Icon            =   "frmMain.frx":20256
+            Style           =   2
+            Caption         =   "Ba3o Ve65 Vo71i USB"
+            IconAlign       =   3
+            iNonThemeStyle  =   2
+            MaskColor       =   16711935
+            BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+               Name            =   "Tahoma"
+               Size            =   8.25
+               Charset         =   0
+               Weight          =   400
+               Underline       =   0   'False
+               Italic          =   0   'False
+               Strikethrough   =   0   'False
+            EndProperty
+            RoundedBordersByTheme=   0   'False
+            ShowFocusRectangle=   0   'False
+         End
+         Begin UniControls.UniButton cmdVirus 
+            Height          =   255
+            Index           =   6
+            Left            =   240
+            TabIndex        =   7
+            Top             =   840
+            Width           =   2055
+            _ExtentX        =   3625
+            _ExtentY        =   450
+            Icon            =   "frmMain.frx":20272
+            Style           =   2
+            Caption         =   "Tu75 D9o65ng Xo1a Autorun"
+            IconAlign       =   3
+            iNonThemeStyle  =   2
+            MaskColor       =   16711935
+            BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+               Name            =   "Tahoma"
+               Size            =   8.25
+               Charset         =   0
+               Weight          =   400
+               Underline       =   0   'False
+               Italic          =   0   'False
+               Strikethrough   =   0   'False
+            EndProperty
+            RoundedBordersByTheme=   0   'False
+            ShowFocusRectangle=   0   'False
+         End
+         Begin UniControls.UniButton cmdVirus 
+            Height          =   255
+            Index           =   5
+            Left            =   240
+            TabIndex        =   6
+            Top             =   480
+            Width           =   2055
+            _ExtentX        =   3625
+            _ExtentY        =   450
+            Icon            =   "frmMain.frx":2028E
+            Style           =   2
+            Caption         =   "Ba3o Ve65 Registry"
+            IconAlign       =   3
+            iNonThemeStyle  =   2
+            MaskColor       =   16711935
+            BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+               Name            =   "Tahoma"
+               Size            =   8.25
+               Charset         =   0
+               Weight          =   400
+               Underline       =   0   'False
+               Italic          =   0   'False
+               Strikethrough   =   0   'False
+            EndProperty
+            RoundedBordersByTheme=   0   'False
+            ShowFocusRectangle=   0   'False
+         End
+      End
+      Begin UniControls.UniAniPictureBox PicVirus 
+         Height          =   375
+         Left            =   120
+         TabIndex        =   0
+         Top             =   360
+         Width           =   2415
+         _ExtentX        =   4260
+         _ExtentY        =   661
+         BackColor       =   12648432
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Tahoma"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         Begin UniControls.UniButton cmdVirus 
+            Height          =   255
+            Index           =   4
+            Left            =   240
+            TabIndex        =   35
+            Top             =   1560
+            Width           =   2055
+            _ExtentX        =   3625
+            _ExtentY        =   450
+            Icon            =   "frmMain.frx":202AA
+            Style           =   2
+            Caption         =   "Nha65t Ky1 Que1t Virus"
+            IconAlign       =   3
+            iNonThemeStyle  =   2
+            MaskColor       =   16711935
+            BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+               Name            =   "Tahoma"
+               Size            =   8.25
+               Charset         =   0
+               Weight          =   400
+               Underline       =   0   'False
+               Italic          =   0   'False
+               Strikethrough   =   0   'False
+            EndProperty
+            RoundedBordersByTheme=   0   'False
+            ShowFocusRectangle=   0   'False
+         End
+         Begin UniControls.UniButton cmdVirus 
+            Height          =   255
+            Index           =   3
+            Left            =   240
+            TabIndex        =   4
+            Top             =   1200
+            Width           =   2055
+            _ExtentX        =   3625
+            _ExtentY        =   450
+            Icon            =   "frmMain.frx":202C6
+            Style           =   2
+            Caption         =   "Ca2i D9a85t Ca61u Hi2nh Que1t"
+            IconAlign       =   3
+            iNonThemeStyle  =   2
+            MaskColor       =   16711935
+            BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+               Name            =   "Tahoma"
+               Size            =   8.25
+               Charset         =   0
+               Weight          =   400
+               Underline       =   0   'False
+               Italic          =   0   'False
+               Strikethrough   =   0   'False
+            EndProperty
+            RoundedBordersByTheme=   0   'False
+            ShowFocusRectangle=   0   'False
+         End
+         Begin UniControls.UniButton cmdVirus 
+            Height          =   255
+            Index           =   1
+            Left            =   240
+            TabIndex        =   3
+            Top             =   840
+            Width           =   2055
+            _ExtentX        =   3625
+            _ExtentY        =   450
+            Icon            =   "frmMain.frx":202E2
+            Style           =   2
+            Caption         =   "Que1t Tu2y Cho5n"
+            IconAlign       =   3
+            iNonThemeStyle  =   2
+            MaskColor       =   16711935
+            BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+               Name            =   "Tahoma"
+               Size            =   8.25
+               Charset         =   0

@@ -1,0 +1,766 @@
+Line 26: Class UniControls.UniFrame of control fm was not a loaded control class.
+Line 49: Class UniControls.UniLabel of control UniLabel36 was not a loaded control class.
+Line 68: Class UniControls.UniLabel of control atplblStaAutorun was not a loaded control class.
+Line 93: Class UniControls.UniButton of control atpcmdAutorun was not a loaded control class.
+Line 121: Class UniControls.UniLabel of control UniLabel35 was not a loaded control class.
+Line 140: Class UniControls.UniLabel of control UniLabel30 was not a loaded control class.
+Line 161: Class UniControls.UniFrame of control fm was not a loaded control class.
+Line 189: Class UniControls.UniButton of control cmdDelREG was not a loaded control class.
+Line 216: Class UniControls.UniLabel of control UniLabel34 was not a loaded control class.
+Line 235: Class UniControls.UniButton of control atpREGAdd was not a loaded control class.
+Line 262: Class UniControls.UniListView of control atpLVREG was not a loaded control class.
+Line 288: Class UniControls.UniLabel of control UniLabel29 was not a loaded control class.
+Line 309: Class UniControls.UniLabel of control UniLabel32 was not a loaded control class.
+Line 329: Class UniControls.UniButton of control atpcmdREG was not a loaded control class.
+Line 356: Class UniControls.UniLabel of control atplbREG was not a loaded control class.
+Line 376: Class UniControls.UniFrame of control fm was not a loaded control class.
+Line 399: Class UniControls.UniButton of control cmdDelSelected was not a loaded control class.
+Line 426: Class UniControls.UniButton of control cmdEventsVirusKillAll was not a loaded control class.
+Line 453: Class UniControls.UniLabel of control UniLabel28 was not a loaded control class.
+Line 472: Class UniControls.UniListView of control LVVirusEvents was not a loaded control class.
+Line 499: Class UniControls.UniLabel of control UniLabel27 was not a loaded control class.
+Line 520: Class UniControls.UniFrame of control fm was not a loaded control class.
+Line 544: Class UniControls.UniLabel of control UniLabel17 was not a loaded control class.
+Line 563: Class UniControls.UniButton of control cmdFullScan was not a loaded control class.
+Line 591: Class UniControls.UniCheckBox of control VSdll was not a loaded control class.
+Line 612: Class UniControls.UniLabel of control UniLabel11 was not a loaded control class.
+Line 631: Class UniControls.NumbericUpDown of control VSLimitSize was not a loaded control class.
+Line 653: Class UniControls.UniLabel of control UniLabel10 was not a loaded control class.
+Line 671: Class UniControls.UniCheckBox of control VSDontScanSize was not a loaded control class.
+Line 692: Class UniControls.UniCheckBox of control VSScanProcess was not a loaded control class.
+Line 713: Class UniControls.UniCheckBox of control VSScanStartUp was not a loaded control class.
+Line 734: Class UniControls.UniLabel of control UniLabel7 was not a loaded control class.
+Line 754: Class UniControls.UniLabel of control UniLabel9 was not a loaded control class.
+Line 773: Class UniControls.UniCheckBox of control VSexe was not a loaded control class.
+Line 795: Class UniControls.UniCheckBox of control VSbat was not a loaded control class.
+Line 816: Class UniControls.UniCheckBox of control VScom was not a loaded control class.
+Line 837: Class UniControls.UniCheckBox of control VScmd was not a loaded control class.
+Line 858: Class UniControls.UniCheckBox of control VSscr was not a loaded control class.
+Line 880: Class UniControls.UniFrame of control fm was not a loaded control class.
+Line 903: Class UniControls.UniLabel of control UniLabel26 was not a loaded control class.
+Line 922: Class UniControls.UniCheckBox of control atsScanKeylogger was not a loaded control class.
+Line 944: Class UniControls.UniLabel of control UniLabel25 was not a loaded control class.
+Line 963: Class UniControls.UniCheckBox of control atsAutoScanUSB was not a loaded control class.
+Line 985: Class UniControls.UniLabel of control UniLabel19 was not a loaded control class.
+Line 1004: Class UniControls.UniLabel of control UniLabel18 was not a loaded control class.
+Line 1023: Class UniControls.UniCheckBox of control atsAlwaysScanFolder was not a loaded control class.
+Line 1045: Class UniControls.UniCheckBox of control atsScanEXE was not a loaded control class.
+Line 1067: Class UniControls.UniLabel of control UniLabel16 was not a loaded control class.
+Line 1086: Class UniControls.UniLabel of control UniLabel15 was not a loaded control class.
+Line 1107: Class UniControls.UniTrayIcon of control Tray1 was not a loaded control class.
+Line 1115: Class UniControls.UniFrame of control fm was not a loaded control class.
+Line 1138: Class UniControls.UniButton of control csBack was not a loaded control class.
+Line 1165: Class UniControls.UniButton of control csKill was not a loaded control class.
+Line 1192: Class UniControls.UniButton of control csCachLy was not a loaded control class.
+Line 1219: Class UniControls.UniButton of control csStop was not a loaded control class.
+Line 1247: Class UniControls.UniButton of control csStart was not a loaded control class.
+Line 1274: Class UniControls.UniFrame of control ff was not a loaded control class.
+Line 1296: Class UniControls.UniLabel of control cslblPath was not a loaded control class.
+Line 1314: Class UniControls.UniCheckBox of control CScom was not a loaded control class.
+Line 1336: Class UniControls.UniCheckBox of control CSbat was not a loaded control class.
+Line 1358: Class UniControls.UniCheckBox of control CSexe was not a loaded control class.
+Line 1381: Class UniControls.UniLabel of control UniLabel24 was not a loaded control class.
+Line 1399: Class UniControls.UniCheckBox of control CSprocess was not a loaded control class.
+Line 1421: Class UniControls.UniCheckBox of control CSStartUp was not a loaded control class.
+Line 1443: Class UniControls.UniLabel of control UniLabel23 was not a loaded control class.
+Line 1462: Class UniControls.UniFolderView of control CSFolderView1 was not a loaded control class.
+Line 1471: Class UniControls.UniLabel of control UniLabel22 was not a loaded control class.
+Line 1491: Class UniControls.UniLabel of control UniLabel21 was not a loaded control class.
+Line 1510: Class UniControls.UniLabel of control UniLabel20 was not a loaded control class.
+Line 1530: Class UniControls.UniListView of control LVVirus2 was not a loaded control class.
+Line 1558: Class UniControls.UniLabel of control cslblStatus was not a loaded control class.
+Line 1578: Class UniControls.UniLabel of control cslblStatus2 was not a loaded control class.
+Line 1611: Class UniControls.UniFrame of control fm was not a loaded control class.
+Line 1634: Class UniControls.UniLabel of control UniLabel13 was not a loaded control class.
+Line 1653: Class UniControls.UniLabel of control lblScanTime was not a loaded control class.
+Line 1673: Class UniControls.UniLabel of control UniLabel12 was not a loaded control class.
+Line 1692: Class UniControls.UniButton of control cmdSettingFullScan was not a loaded control class.
+Line 1719: Class UniControls.UniLabel of control lblStatus2 was not a loaded control class.
+Line 1739: Class UniControls.UniLabel of control lblStatus was not a loaded control class.
+Line 1760: Class UniControls.UniLabel of control UniLabel8 was not a loaded control class.
+Line 1779: Class UniControls.UniButton of control cmdFSKillVirus was not a loaded control class.
+Line 1806: Class UniControls.UniButton of control cmdFSCachLy was not a loaded control class.
+Line 1833: Class UniControls.UniButton of control cmdFSReport was not a loaded control class.
+Line 1861: Class UniControls.UniButton of control cmdFSStop was not a loaded control class.
+Line 1888: Class UniControls.UniButton of control cmdFSStart was not a loaded control class.
+Line 1915: Class UniControls.UniListView of control LVVirus1 was not a loaded control class.
+Line 1943: Class UniControls.UniLabel of control UniLabel6 was not a loaded control class.
+Line 1962: Class UniControls.UniLabel of control UniLabel5 was not a loaded control class.
+Line 1980: Class UniControls.UniLabel of control UniLabel4 was not a loaded control class.
+Line 1998: Class UniControls.UniLabel of control UniLabel3 was not a loaded control class.
+Line 2016: Class UniControls.UniLabel of control UniLabel2 was not a loaded control class.
+Line 2035: Class UniControls.UniLabel of control UniLabel1 was not a loaded control class.
+Line 2056: Class UniControls.UniLabel of control lblScanTime was not a loaded control class.
+Line 2076: Class UniControls.UniLabel of control lblScanTime was not a loaded control class.
+Line 2096: Class UniControls.UniLabel of control UniLabel14 was not a loaded control class.
+Line 2134: Class UniControls.UniFrame of control fmMain was not a loaded control class.
+Line 2156: Class UniControls.UniAniPictureBox of control PicFirewall was not a loaded control class.
+Line 2174: Class UniControls.UniButton of control cmdFirewallEvents was not a loaded control class.
+Line 2201: Class UniControls.UniButton of control cmdFirewallSetting was not a loaded control class.
+Line 2228: Class UniControls.UniButton of control cmdFirewall was not a loaded control class.
+Line 2255: Class UniControls.UniAniPictureBox of control PicProtect was not a loaded control class.
+Line 2273: Class UniControls.UniButton of control cmdVirus was not a loaded control class.
+Line 2301: Class UniControls.UniButton of control cmdAutoProtect was not a loaded control class.
+Line 2328: Class UniControls.UniButton of control cmdVirus was not a loaded control class.
+Line 2356: Class UniControls.UniButton of control cmdVirus was not a loaded control class.
+Line 2385: Class UniControls.UniAniPictureBox of control PicVirus was not a loaded control class.
+Line 2403: Class UniControls.UniButton of control cmdVirus was not a loaded control class.
+Line 2431: Class UniControls.UniButton of control cmdVirus was not a loaded control class.
+Line 2459: Class UniControls.UniButton of control cmdVirus was not a loaded control class.
+Line 2487: Class UniControls.UniButton of control cmdVirus was not a loaded control class.
+Line 2515: Class UniControls.UniButton of control cmdQuetVirus was not a loaded control class.
+Line 32: The property name _ExtentX in fm is invalid.
+Line 33: The property name _ExtentY in fm is invalid.
+Line 34: The property name MaskColor in fm is invalid.
+Line 35: The property name FrameColor in fm is invalid.
+Line 36: The property name Style in fm is invalid.
+Line 37: The property name Caption in fm is invalid.
+Line 38: The property name TextColor in fm is invalid.
+Line 39: The property name Alignment in fm is invalid.
+Line 54: The property name _ExtentX in UniLabel36 is invalid.
+Line 55: The property name _ExtentY in UniLabel36 is invalid.
+Line 56: The property name Caption in UniLabel36 is invalid.
+Line 73: The property name _ExtentX in atplblStaAutorun is invalid.
+Line 74: The property name _ExtentY in atplblStaAutorun is invalid.
+Line 75: The property name Caption in atplblStaAutorun is invalid.
+Line 99: The property name _ExtentX in atpcmdAutorun is invalid.
+Line 100: The property name _ExtentY in atpcmdAutorun is invalid.
+Line 101: The property name Icon in atpcmdAutorun is invalid.
+Line 102: The property name Style in atpcmdAutorun is invalid.
+Line 103: The property name Caption in atpcmdAutorun is invalid.
+Line 104: The property name IconAlign in atpcmdAutorun is invalid.
+Line 105: The property name iNonThemeStyle in atpcmdAutorun is invalid.
+Line 107: The property name MaskColor in atpcmdAutorun is invalid.
+Line 108: The property name FontColor in atpcmdAutorun is invalid.
+Line 118: The property name RoundedBordersByTheme in atpcmdAutorun is invalid.
+Line 119: The property name ShowFocusRectangle in atpcmdAutorun is invalid.
+Line 126: The property name _ExtentX in UniLabel35 is invalid.
+Line 127: The property name _ExtentY in UniLabel35 is invalid.
+Line 128: The property name Caption in UniLabel35 is invalid.
+Line 145: The property name _ExtentX in UniLabel30 is invalid.
+Line 146: The property name _ExtentY in UniLabel30 is invalid.
+Line 147: The property name Alignment in UniLabel30 is invalid.
+Line 148: The property name Caption in UniLabel30 is invalid.
+Line 167: The property name _ExtentX in fm is invalid.
+Line 168: The property name _ExtentY in fm is invalid.
+Line 169: The property name MaskColor in fm is invalid.
+Line 170: The property name FrameColor in fm is invalid.
+Line 171: The property name Style in fm is invalid.
+Line 172: The property name Caption in fm is invalid.
+Line 173: The property name TextColor in fm is invalid.
+Line 174: The property name Alignment in fm is invalid.
+Line 195: The property name _ExtentX in cmdDelREG is invalid.
+Line 196: The property name _ExtentY in cmdDelREG is invalid.
+Line 197: The property name Icon in cmdDelREG is invalid.
+Line 198: The property name Style in cmdDelREG is invalid.
+Line 199: The property name Caption in cmdDelREG is invalid.
+Line 200: The property name IconAlign in cmdDelREG is invalid.
+Line 201: The property name iNonThemeStyle in cmdDelREG is invalid.
+Line 203: The property name MaskColor in cmdDelREG is invalid.
+Line 213: The property name RoundedBordersByTheme in cmdDelREG is invalid.
+Line 214: The property name ShowFocusRectangle in cmdDelREG is invalid.
+Line 221: The property name _ExtentX in UniLabel34 is invalid.
+Line 222: The property name _ExtentY in UniLabel34 is invalid.
+Line 223: The property name Caption in UniLabel34 is invalid.
+Line 241: The property name _ExtentX in atpREGAdd is invalid.
+Line 242: The property name _ExtentY in atpREGAdd is invalid.
+Line 243: The property name Icon in atpREGAdd is invalid.
+Line 244: The property name Style in atpREGAdd is invalid.
+Line 245: The property name Caption in atpREGAdd is invalid.
+Line 246: The property name IconAlign in atpREGAdd is invalid.
+Line 247: The property name iNonThemeStyle in atpREGAdd is invalid.
+Line 249: The property name MaskColor in atpREGAdd is invalid.
+Line 259: The property name RoundedBordersByTheme in atpREGAdd is invalid.
+Line 260: The property name ShowFocusRectangle in atpREGAdd is invalid.
+Line 268: The property name _ExtentX in atpLVREG is invalid.
+Line 269: The property name _ExtentY in atpLVREG is invalid.
+Line 280: The property name MultiSelect in atpLVREG is invalid.
+Line 281: The property name LabelEdit in atpLVREG is invalid.
+Line 282: The property name AutoArrange in atpLVREG is invalid.
+Line 283: The property name HeaderButtons in atpLVREG is invalid.
+Line 284: The property name HeaderTrackSelect in atpLVREG is invalid.
+Line 285: The property name HideSelection in atpLVREG is invalid.
+Line 286: The property name InfoTips in atpLVREG is invalid.
+Line 293: The property name _ExtentX in UniLabel29 is invalid.
+Line 294: The property name _ExtentY in UniLabel29 is invalid.
+Line 295: The property name Alignment in UniLabel29 is invalid.
+Line 296: The property name BackStyle in UniLabel29 is invalid.
+Line 297: The property name Caption in UniLabel29 is invalid.
+Line 314: The property name _ExtentX in UniLabel32 is invalid.
+Line 315: The property name _ExtentY in UniLabel32 is invalid.
+Line 316: The property name BackStyle in UniLabel32 is invalid.
+Line 317: The property name Caption in UniLabel32 is invalid.
+Line 335: The property name _ExtentX in atpcmdREG is invalid.
+Line 336: The property name _ExtentY in atpcmdREG is invalid.
+Line 337: The property name Style in atpcmdREG is invalid.
+Line 338: The property name Caption in atpcmdREG is invalid.
+Line 339: The property name IconAlign in atpcmdREG is invalid.
+Line 340: The property name iNonThemeStyle in atpcmdREG is invalid.
+Line 342: The property name MaskColor in atpcmdREG is invalid.
+Line 343: The property name FontColor in atpcmdREG is invalid.
+Line 353: The property name RoundedBordersByTheme in atpcmdREG is invalid.
+Line 354: The property name ShowFocusRectangle in atpcmdREG is invalid.
+Line 361: The property name _ExtentX in atplbREG is invalid.
+Line 362: The property name _ExtentY in atplbREG is invalid.
+Line 363: The property name Caption in atplbREG is invalid.
+Line 382: The property name _ExtentX in fm is invalid.
+Line 383: The property name _ExtentY in fm is invalid.
+Line 384: The property name MaskColor in fm is invalid.
+Line 385: The property name FrameColor in fm is invalid.
+Line 386: The property name Style in fm is invalid.
+Line 387: The property name Caption in fm is invalid.
+Line 388: The property name TextColor in fm is invalid.
+Line 389: The property name Alignment in fm is invalid.
+Line 405: The property name _ExtentX in cmdDelSelected is invalid.
+Line 406: The property name _ExtentY in cmdDelSelected is invalid.
+Line 407: The property name Icon in cmdDelSelected is invalid.
+Line 408: The property name Style in cmdDelSelected is invalid.
+Line 409: The property name Caption in cmdDelSelected is invalid.
+Line 410: The property name IconAlign in cmdDelSelected is invalid.
+Line 411: The property name iNonThemeStyle in cmdDelSelected is invalid.
+Line 413: The property name MaskColor in cmdDelSelected is invalid.
+Line 423: The property name RoundedBordersByTheme in cmdDelSelected is invalid.
+Line 424: The property name ShowFocusRectangle in cmdDelSelected is invalid.
+Line 432: The property name _ExtentX in cmdEventsVirusKillAll is invalid.
+Line 433: The property name _ExtentY in cmdEventsVirusKillAll is invalid.
+Line 434: The property name Icon in cmdEventsVirusKillAll is invalid.
+Line 435: The property name Style in cmdEventsVirusKillAll is invalid.
+Line 436: The property name Caption in cmdEventsVirusKillAll is invalid.
+Line 437: The property name IconAlign in cmdEventsVirusKillAll is invalid.
+Line 438: The property name iNonThemeStyle in cmdEventsVirusKillAll is invalid.
+Line 440: The property name MaskColor in cmdEventsVirusKillAll is invalid.
+Line 450: The property name RoundedBordersByTheme in cmdEventsVirusKillAll is invalid.
+Line 451: The property name ShowFocusRectangle in cmdEventsVirusKillAll is invalid.
+Line 458: The property name _ExtentX in UniLabel28 is invalid.
+Line 459: The property name _ExtentY in UniLabel28 is invalid.
+Line 460: The property name Caption in UniLabel28 is invalid.
+Line 478: The property name _ExtentX in LVVirusEvents is invalid.
+Line 479: The property name _ExtentY in LVVirusEvents is invalid.
+Line 490: The property name MultiSelect in LVVirusEvents is invalid.
+Line 491: The property name LabelEdit in LVVirusEvents is invalid.
+Line 492: The property name AutoArrange in LVVirusEvents is invalid.
+Line 493: The property name CheckBoxes in LVVirusEvents is invalid.
+Line 494: The property name HeaderButtons in LVVirusEvents is invalid.
+Line 495: The property name HeaderTrackSelect in LVVirusEvents is invalid.
+Line 496: The property name HideSelection in LVVirusEvents is invalid.
+Line 497: The property name InfoTips in LVVirusEvents is invalid.
+Line 504: The property name _ExtentX in UniLabel27 is invalid.
+Line 505: The property name _ExtentY in UniLabel27 is invalid.
+Line 506: The property name Alignment in UniLabel27 is invalid.
+Line 507: The property name Caption in UniLabel27 is invalid.
+Line 527: The property name _ExtentX in fm is invalid.
+Line 528: The property name _ExtentY in fm is invalid.
+Line 529: The property name MaskColor in fm is invalid.
+Line 530: The property name FrameColor in fm is invalid.
+Line 531: The property name Style in fm is invalid.
+Line 532: The property name Caption in fm is invalid.
+Line 533: The property name TextColor in fm is invalid.
+Line 534: The property name Alignment in fm is invalid.
+Line 549: The property name _ExtentX in UniLabel17 is invalid.
+Line 550: The property name _ExtentY in UniLabel17 is invalid.
+Line 551: The property name Caption in UniLabel17 is invalid.
+Line 569: The property name _ExtentX in cmdFullScan is invalid.
+Line 570: The property name _ExtentY in cmdFullScan is invalid.
+Line 571: The property name Icon in cmdFullScan is invalid.
+Line 572: The property name Style in cmdFullScan is invalid.
+Line 573: The property name Caption in cmdFullScan is invalid.
+Line 574: The property name IconAlign in cmdFullScan is invalid.
+Line 575: The property name iNonThemeStyle in cmdFullScan is invalid.
+Line 577: The property name MaskColor in cmdFullScan is invalid.
+Line 578: The property name FontColor in cmdFullScan is invalid.
+Line 588: The property name RoundedBordersByTheme in cmdFullScan is invalid.
+Line 589: The property name ShowFocusRectangle in cmdFullScan is invalid.
+Line 597: The property name _ExtentX in VSdll is invalid.
+Line 598: The property name _ExtentY in VSdll is invalid.
+Line 608: The property name Value in VSdll is invalid.
+Line 609: The property name Caption in VSdll is invalid.
+Line 617: The property name _ExtentX in UniLabel11 is invalid.
+Line 618: The property name _ExtentY in UniLabel11 is invalid.
+Line 619: The property name Caption in UniLabel11 is invalid.
+Line 637: The property name _ExtentX in VSLimitSize is invalid.
+Line 638: The property name _ExtentY in VSLimitSize is invalid.
+Line 639: The property name Locked in VSLimitSize is invalid.
+Line 640: The property name Text in VSLimitSize is invalid.
+Line 641: The property name Max in VSLimitSize is invalid.
+Line 642: The property name Min in VSLimitSize is invalid.
+Line 658: The property name _ExtentX in UniLabel10 is invalid.
+Line 659: The property name _ExtentY in UniLabel10 is invalid.
+Line 660: The property name Caption in UniLabel10 is invalid.
+Line 677: The property name _ExtentX in VSDontScanSize is invalid.
+Line 678: The property name _ExtentY in VSDontScanSize is invalid.
+Line 688: The property name Value in VSDontScanSize is invalid.
+Line 689: The property name Caption in VSDontScanSize is invalid.
+Line 698: The property name _ExtentX in VSScanProcess is invalid.
+Line 699: The property name _ExtentY in VSScanProcess is invalid.
+Line 709: The property name Value in VSScanProcess is invalid.
+Line 710: The property name Caption in VSScanProcess is invalid.
+Line 719: The property name _ExtentX in VSScanStartUp is invalid.
+Line 720: The property name _ExtentY in VSScanStartUp is invalid.
+Line 730: The property name Value in VSScanStartUp is invalid.
+Line 731: The property name Caption in VSScanStartUp is invalid.
+Line 739: The property name _ExtentX in UniLabel7 is invalid.
+Line 740: The property name _ExtentY in UniLabel7 is invalid.
+Line 741: The property name Alignment in UniLabel7 is invalid.
+Line 742: The property name Caption in UniLabel7 is invalid.
+Line 759: The property name _ExtentX in UniLabel9 is invalid.
+Line 760: The property name _ExtentY in UniLabel9 is invalid.
+Line 761: The property name Caption in UniLabel9 is invalid.
+Line 779: The property name _ExtentX in VSexe is invalid.
+Line 780: The property name _ExtentY in VSexe is invalid.
+Line 790: The property name Value in VSexe is invalid.
+Line 791: The property name Caption in VSexe is invalid.
+Line 801: The property name _ExtentX in VSbat is invalid.
+Line 802: The property name _ExtentY in VSbat is invalid.
+Line 812: The property name Value in VSbat is invalid.
+Line 813: The property name Caption in VSbat is invalid.
+Line 822: The property name _ExtentX in VScom is invalid.
+Line 823: The property name _ExtentY in VScom is invalid.
+Line 833: The property name Value in VScom is invalid.
+Line 834: The property name Caption in VScom is invalid.
+Line 843: The property name _ExtentX in VScmd is invalid.
+Line 844: The property name _ExtentY in VScmd is invalid.
+Line 854: The property name Value in VScmd is invalid.
+Line 855: The property name Caption in VScmd is invalid.
+Line 864: The property name _ExtentX in VSscr is invalid.
+Line 865: The property name _ExtentY in VSscr is invalid.
+Line 875: The property name Value in VSscr is invalid.
+Line 876: The property name Caption in VSscr is invalid.
+Line 886: The property name _ExtentX in fm is invalid.
+Line 887: The property name _ExtentY in fm is invalid.
+Line 888: The property name MaskColor in fm is invalid.
+Line 889: The property name FrameColor in fm is invalid.
+Line 890: The property name Style in fm is invalid.
+Line 891: The property name Caption in fm is invalid.
+Line 892: The property name TextColor in fm is invalid.
+Line 893: The property name Alignment in fm is invalid.
+Line 908: The property name _ExtentX in UniLabel26 is invalid.
+Line 909: The property name _ExtentY in UniLabel26 is invalid.
+Line 910: The property name Caption in UniLabel26 is invalid.
+Line 928: The property name _ExtentX in atsScanKeylogger is invalid.
+Line 929: The property name _ExtentY in atsScanKeylogger is invalid.
+Line 939: The property name Value in atsScanKeylogger is invalid.
+Line 940: The property name Caption in atsScanKeylogger is invalid.
+Line 942: The property name ShowFocusRectangle in atsScanKeylogger is invalid.
+Line 949: The property name _ExtentX in UniLabel25 is invalid.
+Line 950: The property name _ExtentY in UniLabel25 is invalid.
+Line 951: The property name Caption in UniLabel25 is invalid.
+Line 969: The property name _ExtentX in atsAutoScanUSB is invalid.
+Line 970: The property name _ExtentY in atsAutoScanUSB is invalid.
+Line 980: The property name Value in atsAutoScanUSB is invalid.
+Line 981: The property name Caption in atsAutoScanUSB is invalid.
+Line 983: The property name ShowFocusRectangle in atsAutoScanUSB is invalid.
+Line 990: The property name _ExtentX in UniLabel19 is invalid.
+Line 991: The property name _ExtentY in UniLabel19 is invalid.
+Line 992: The property name Caption in UniLabel19 is invalid.
+Line 1009: The property name _ExtentX in UniLabel18 is invalid.
+Line 1010: The property name _ExtentY in UniLabel18 is invalid.
+Line 1011: The property name Caption in UniLabel18 is invalid.
+Line 1029: The property name _ExtentX in atsAlwaysScanFolder is invalid.
+Line 1030: The property name _ExtentY in atsAlwaysScanFolder is invalid.
+Line 1040: The property name Value in atsAlwaysScanFolder is invalid.
+Line 1041: The property name Caption in atsAlwaysScanFolder is invalid.
+Line 1043: The property name ShowFocusRectangle in atsAlwaysScanFolder is invalid.
+Line 1051: The property name _ExtentX in atsScanEXE is invalid.
+Line 1052: The property name _ExtentY in atsScanEXE is invalid.
+Line 1062: The property name Value in atsScanEXE is invalid.
+Line 1063: The property name Caption in atsScanEXE is invalid.
+Line 1065: The property name ShowFocusRectangle in atsScanEXE is invalid.
+Line 1072: The property name _ExtentX in UniLabel16 is invalid.
+Line 1073: The property name _ExtentY in UniLabel16 is invalid.
+Line 1074: The property name Caption in UniLabel16 is invalid.
+Line 1091: The property name _ExtentX in UniLabel15 is invalid.
+Line 1092: The property name _ExtentY in UniLabel15 is invalid.
+Line 1093: The property name Alignment in UniLabel15 is invalid.
+Line 1094: The property name Caption in UniLabel15 is invalid.
+Line 1110: The property name _ExtentX in Tray1 is invalid.
+Line 1111: The property name _ExtentY in Tray1 is invalid.
+Line 1113: The property name Icon in Tray1 is invalid.
+Line 1121: The property name _ExtentX in fm is invalid.
+Line 1122: The property name _ExtentY in fm is invalid.
+Line 1123: The property name MaskColor in fm is invalid.
+Line 1124: The property name FrameColor in fm is invalid.
+Line 1125: The property name Style in fm is invalid.
+Line 1126: The property name Caption in fm is invalid.
+Line 1127: The property name TextColor in fm is invalid.
+Line 1128: The property name Alignment in fm is invalid.
+Line 1144: The property name _ExtentX in csBack is invalid.
+Line 1145: The property name _ExtentY in csBack is invalid.
+Line 1146: The property name Icon in csBack is invalid.
+Line 1147: The property name Style in csBack is invalid.
+Line 1148: The property name IconAlign in csBack is invalid.
+Line 1149: The property name iNonThemeStyle in csBack is invalid.
+Line 1152: The property name MaskColor in csBack is invalid.
+Line 1162: The property name RoundedBordersByTheme in csBack is invalid.
+Line 1163: The property name ShowFocusRectangle in csBack is invalid.
+Line 1171: The property name _ExtentX in csKill is invalid.
+Line 1172: The property name _ExtentY in csKill is invalid.
+Line 1173: The property name Icon in csKill is invalid.
+Line 1174: The property name Style in csKill is invalid.
+Line 1175: The property name Caption in csKill is invalid.
+Line 1176: The property name IconAlign in csKill is invalid.
+Line 1177: The property name iNonThemeStyle in csKill is invalid.
+Line 1179: The property name MaskColor in csKill is invalid.
+Line 1189: The property name RoundedBordersByTheme in csKill is invalid.
+Line 1190: The property name ShowFocusRectangle in csKill is invalid.
+Line 1198: The property name _ExtentX in csCachLy is invalid.
+Line 1199: The property name _ExtentY in csCachLy is invalid.
+Line 1200: The property name Icon in csCachLy is invalid.
+Line 1201: The property name Style in csCachLy is invalid.
+Line 1202: The property name Caption in csCachLy is invalid.
+Line 1203: The property name IconAlign in csCachLy is invalid.
+Line 1204: The property name iNonThemeStyle in csCachLy is invalid.
+Line 1206: The property name MaskColor in csCachLy is invalid.
+Line 1216: The property name RoundedBordersByTheme in csCachLy is invalid.
+Line 1217: The property name ShowFocusRectangle in csCachLy is invalid.
+Line 1225: The property name _ExtentX in csStop is invalid.
+Line 1226: The property name _ExtentY in csStop is invalid.
+Line 1227: The property name Icon in csStop is invalid.
+Line 1228: The property name Style in csStop is invalid.
+Line 1229: The property name Caption in csStop is invalid.
+Line 1230: The property name IconAlign in csStop is invalid.
+Line 1231: The property name iNonThemeStyle in csStop is invalid.
+Line 1234: The property name MaskColor in csStop is invalid.
+Line 1244: The property name RoundedBordersByTheme in csStop is invalid.
+Line 1245: The property name ShowFocusRectangle in csStop is invalid.
+Line 1253: The property name _ExtentX in csStart is invalid.
+Line 1254: The property name _ExtentY in csStart is invalid.
+Line 1255: The property name Icon in csStart is invalid.
+Line 1256: The property name Style in csStart is invalid.
+Line 1257: The property name Caption in csStart is invalid.
+Line 1258: The property name IconAlign in csStart is invalid.
+Line 1259: The property name iNonThemeStyle in csStart is invalid.
+Line 1261: The property name MaskColor in csStart is invalid.
+Line 1271: The property name RoundedBordersByTheme in csStart is invalid.
+Line 1272: The property name ShowFocusRectangle in csStart is invalid.
+Line 1279: The property name _ExtentX in ff is invalid.
+Line 1280: The property name _ExtentY in ff is invalid.
+Line 1281: The property name MaskColor in ff is invalid.
+Line 1282: The property name FrameColor in ff is invalid.
+Line 1283: The property name Style in ff is invalid.
+Line 1284: The property name Caption in ff is invalid.
+Line 1285: The property name TextColor in ff is invalid.
+Line 1286: The property name Alignment in ff is invalid.
+Line 1301: The property name _ExtentX in cslblPath is invalid.
+Line 1302: The property name _ExtentY in cslblPath is invalid.
+Line 1303: The property name Caption in cslblPath is invalid.
+Line 1320: The property name _ExtentX in CScom is invalid.
+Line 1321: The property name _ExtentY in CScom is invalid.
+Line 1331: The property name Value in CScom is invalid.
+Line 1332: The property name Caption in CScom is invalid.
+Line 1334: The property name ShowFocusRectangle in CScom is invalid.
+Line 1342: The property name _ExtentX in CSbat is invalid.
+Line 1343: The property name _ExtentY in CSbat is invalid.
+Line 1353: The property name Value in CSbat is invalid.
+Line 1354: The property name Caption in CSbat is invalid.
+Line 1356: The property name ShowFocusRectangle in CSbat is invalid.
+Line 1364: The property name _ExtentX in CSexe is invalid.
+Line 1365: The property name _ExtentY in CSexe is invalid.
+Line 1375: The property name Value in CSexe is invalid.
+Line 1376: The property name Caption in CSexe is invalid.
+Line 1379: The property name ShowFocusRectangle in CSexe is invalid.
+Line 1386: The property name _ExtentX in UniLabel24 is invalid.
+Line 1387: The property name _ExtentY in UniLabel24 is invalid.
+Line 1388: The property name Caption in UniLabel24 is invalid.
+Line 1405: The property name _ExtentX in CSprocess is invalid.
+Line 1406: The property name _ExtentY in CSprocess is invalid.
+Line 1416: The property name Value in CSprocess is invalid.
+Line 1417: The property name Caption in CSprocess is invalid.
+Line 1419: The property name ShowFocusRectangle in CSprocess is invalid.
+Line 1427: The property name _ExtentX in CSStartUp is invalid.
+Line 1428: The property name _ExtentY in CSStartUp is invalid.
+Line 1438: The property name Value in CSStartUp is invalid.
+Line 1439: The property name Caption in CSStartUp is invalid.
+Line 1441: The property name ShowFocusRectangle in CSStartUp is invalid.
+Line 1448: The property name _ExtentX in UniLabel23 is invalid.
+Line 1449: The property name _ExtentY in UniLabel23 is invalid.
+Line 1450: The property name Caption in UniLabel23 is invalid.
+Line 1468: The property name _ExtentX in CSFolderView1 is invalid.
+Line 1469: The property name _ExtentY in CSFolderView1 is invalid.
+Line 1476: The property name _ExtentX in UniLabel22 is invalid.
+Line 1477: The property name _ExtentY in UniLabel22 is invalid.
+Line 1478: The property name Caption in UniLabel22 is invalid.
+Line 1496: The property name _ExtentX in UniLabel21 is invalid.
+Line 1497: The property name _ExtentY in UniLabel21 is invalid.
+Line 1498: The property name Caption in UniLabel21 is invalid.
+Line 1515: The property name _ExtentX in UniLabel20 is invalid.
+Line 1516: The property name _ExtentY in UniLabel20 is invalid.
+Line 1517: The property name Alignment in UniLabel20 is invalid.
+Line 1518: The property name Caption in UniLabel20 is invalid.
+Line 1536: The property name _ExtentX in LVVirus2 is invalid.
+Line 1537: The property name _ExtentY in LVVirus2 is invalid.
+Line 1538: The property name AutoUnicode in LVVirus2 is invalid.
+Line 1550: The property name MultiSelect in LVVirus2 is invalid.
+Line 1551: The property name LabelEdit in LVVirus2 is invalid.
+Line 1552: The property name AutoArrange in LVVirus2 is invalid.
+Line 1553: The property name HeaderButtons in LVVirus2 is invalid.
+Line 1554: The property name HeaderTrackSelect in LVVirus2 is invalid.
+Line 1555: The property name HideSelection in LVVirus2 is invalid.
+Line 1556: The property name InfoTips in LVVirus2 is invalid.
+Line 1563: The property name _ExtentX in cslblStatus is invalid.
+Line 1564: The property name _ExtentY in cslblStatus is invalid.
+Line 1565: The property name AutoUnicode in cslblStatus is invalid.
+Line 1566: The property name Caption in cslblStatus is invalid.
+Line 1583: The property name _ExtentX in cslblStatus2 is invalid.
+Line 1584: The property name _ExtentY in cslblStatus2 is invalid.
+Line 1585: The property name Alignment in cslblStatus2 is invalid.
+Line 1586: The property name Caption in cslblStatus2 is invalid.
+Line 1617: The property name _ExtentX in fm is invalid.
+Line 1618: The property name _ExtentY in fm is invalid.
+Line 1619: The property name MaskColor in fm is invalid.
+Line 1620: The property name FrameColor in fm is invalid.
+Line 1621: The property name Style in fm is invalid.
+Line 1622: The property name Caption in fm is invalid.
+Line 1623: The property name TextColor in fm is invalid.
+Line 1624: The property name Alignment in fm is invalid.
+Line 1639: The property name _ExtentX in UniLabel13 is invalid.
+Line 1640: The property name _ExtentY in UniLabel13 is invalid.
+Line 1641: The property name Caption in UniLabel13 is invalid.
+Line 1659: The property name _ExtentX in lblScanTime is invalid.
+Line 1660: The property name _ExtentY in lblScanTime is invalid.
+Line 1661: The property name Caption in lblScanTime is invalid.
+Line 1678: The property name _ExtentX in UniLabel12 is invalid.
+Line 1679: The property name _ExtentY in UniLabel12 is invalid.
+Line 1680: The property name Caption in UniLabel12 is invalid.
+Line 1698: The property name _ExtentX in cmdSettingFullScan is invalid.
+Line 1699: The property name _ExtentY in cmdSettingFullScan is invalid.
+Line 1700: The property name Icon in cmdSettingFullScan is invalid.
+Line 1701: The property name Style in cmdSettingFullScan is invalid.
+Line 1702: The property name Caption in cmdSettingFullScan is invalid.
+Line 1703: The property name IconAlign in cmdSettingFullScan is invalid.
+Line 1704: The property name iNonThemeStyle in cmdSettingFullScan is invalid.
+Line 1706: The property name MaskColor in cmdSettingFullScan is invalid.
+Line 1716: The property name RoundedBordersByTheme in cmdSettingFullScan is invalid.
+Line 1717: The property name ShowFocusRectangle in cmdSettingFullScan is invalid.
+Line 1724: The property name _ExtentX in lblStatus2 is invalid.
+Line 1725: The property name _ExtentY in lblStatus2 is invalid.
+Line 1726: The property name Alignment in lblStatus2 is invalid.
+Line 1727: The property name Caption in lblStatus2 is invalid.
+Line 1744: The property name _ExtentX in lblStatus is invalid.
+Line 1745: The property name _ExtentY in lblStatus is invalid.
+Line 1746: The property name BackStyle in lblStatus is invalid.
+Line 1747: The property name Caption in lblStatus is invalid.
+Line 1758: The property name Link in lblStatus is invalid.
+Line 1765: The property name _ExtentX in UniLabel8 is invalid.
+Line 1766: The property name _ExtentY in UniLabel8 is invalid.
+Line 1767: The property name Caption in UniLabel8 is invalid.
+Line 1785: The property name _ExtentX in cmdFSKillVirus is invalid.
+Line 1786: The property name _ExtentY in cmdFSKillVirus is invalid.
+Line 1787: The property name Icon in cmdFSKillVirus is invalid.
+Line 1788: The property name Style in cmdFSKillVirus is invalid.
+Line 1789: The property name Caption in cmdFSKillVirus is invalid.
+Line 1790: The property name IconAlign in cmdFSKillVirus is invalid.
+Line 1791: The property name iNonThemeStyle in cmdFSKillVirus is invalid.
+Line 1793: The property name MaskColor in cmdFSKillVirus is invalid.
+Line 1803: The property name RoundedBordersByTheme in cmdFSKillVirus is invalid.
+Line 1804: The property name ShowFocusRectangle in cmdFSKillVirus is invalid.
+Line 1812: The property name _ExtentX in cmdFSCachLy is invalid.
+Line 1813: The property name _ExtentY in cmdFSCachLy is invalid.
+Line 1814: The property name Icon in cmdFSCachLy is invalid.
+Line 1815: The property name Style in cmdFSCachLy is invalid.
+Line 1816: The property name Caption in cmdFSCachLy is invalid.
+Line 1817: The property name IconAlign in cmdFSCachLy is invalid.
+Line 1818: The property name iNonThemeStyle in cmdFSCachLy is invalid.
+Line 1820: The property name MaskColor in cmdFSCachLy is invalid.
+Line 1830: The property name RoundedBordersByTheme in cmdFSCachLy is invalid.
+Line 1831: The property name ShowFocusRectangle in cmdFSCachLy is invalid.
+Line 1839: The property name _ExtentX in cmdFSReport is invalid.
+Line 1840: The property name _ExtentY in cmdFSReport is invalid.
+Line 1841: The property name Icon in cmdFSReport is invalid.
+Line 1842: The property name Style in cmdFSReport is invalid.
+Line 1843: The property name Caption in cmdFSReport is invalid.
+Line 1844: The property name IconAlign in cmdFSReport is invalid.
+Line 1845: The property name iNonThemeStyle in cmdFSReport is invalid.
+Line 1848: The property name MaskColor in cmdFSReport is invalid.
+Line 1858: The property name RoundedBordersByTheme in cmdFSReport is invalid.
+Line 1859: The property name ShowFocusRectangle in cmdFSReport is invalid.
+Line 1867: The property name _ExtentX in cmdFSStop is invalid.
+Line 1868: The property name _ExtentY in cmdFSStop is invalid.
+Line 1869: The property name Icon in cmdFSStop is invalid.
+Line 1870: The property name Style in cmdFSStop is invalid.
+Line 1871: The property name Caption in cmdFSStop is invalid.
+Line 1872: The property name IconAlign in cmdFSStop is invalid.
+Line 1875: The property name MaskColor in cmdFSStop is invalid.
+Line 1885: The property name RoundedBordersByTheme in cmdFSStop is invalid.
+Line 1886: The property name ShowFocusRectangle in cmdFSStop is invalid.
+Line 1894: The property name _ExtentX in cmdFSStart is invalid.
+Line 1895: The property name _ExtentY in cmdFSStart is invalid.
+Line 1896: The property name Icon in cmdFSStart is invalid.
+Line 1897: The property name Style in cmdFSStart is invalid.
+Line 1898: The property name Caption in cmdFSStart is invalid.
+Line 1899: The property name IconAlign in cmdFSStart is invalid.
+Line 1900: The property name iNonThemeStyle in cmdFSStart is invalid.
+Line 1902: The property name MaskColor in cmdFSStart is invalid.
+Line 1912: The property name RoundedBordersByTheme in cmdFSStart is invalid.
+Line 1913: The property name ShowFocusRectangle in cmdFSStart is invalid.
+Line 1921: The property name _ExtentX in LVVirus1 is invalid.
+Line 1922: The property name _ExtentY in LVVirus1 is invalid.
+Line 1923: The property name AutoUnicode in LVVirus1 is invalid.
+Line 1935: The property name MultiSelect in LVVirus1 is invalid.
+Line 1936: The property name LabelEdit in LVVirus1 is invalid.
+Line 1937: The property name AutoArrange in LVVirus1 is invalid.
+Line 1938: The property name HeaderButtons in LVVirus1 is invalid.
+Line 1939: The property name HeaderTrackSelect in LVVirus1 is invalid.
+Line 1940: The property name HideSelection in LVVirus1 is invalid.
+Line 1941: The property name InfoTips in LVVirus1 is invalid.
+Line 1948: The property name _ExtentX in UniLabel6 is invalid.
+Line 1949: The property name _ExtentY in UniLabel6 is invalid.
+Line 1950: The property name Caption in UniLabel6 is invalid.
+Line 1967: The property name _ExtentX in UniLabel5 is invalid.
+Line 1968: The property name _ExtentY in UniLabel5 is invalid.
+Line 1969: The property name Caption in UniLabel5 is invalid.
+Line 1985: The property name _ExtentX in UniLabel4 is invalid.
+Line 1986: The property name _ExtentY in UniLabel4 is invalid.
+Line 1987: The property name Caption in UniLabel4 is invalid.
+Line 2003: The property name _ExtentX in UniLabel3 is invalid.
+Line 2004: The property name _ExtentY in UniLabel3 is invalid.
+Line 2005: The property name Caption in UniLabel3 is invalid.
+Line 2021: The property name _ExtentX in UniLabel2 is invalid.
+Line 2022: The property name _ExtentY in UniLabel2 is invalid.
+Line 2023: The property name Caption in UniLabel2 is invalid.
+Line 2040: The property name _ExtentX in UniLabel1 is invalid.
+Line 2041: The property name _ExtentY in UniLabel1 is invalid.
+Line 2042: The property name Alignment in UniLabel1 is invalid.
+Line 2043: The property name BackStyle in UniLabel1 is invalid.
+Line 2044: The property name Caption in UniLabel1 is invalid.
+Line 2062: The property name _ExtentX in lblScanTime is invalid.
+Line 2063: The property name _ExtentY in lblScanTime is invalid.
+Line 2064: The property name Caption in lblScanTime is invalid.
+Line 2082: The property name _ExtentX in lblScanTime is invalid.
+Line 2083: The property name _ExtentY in lblScanTime is invalid.
+Line 2084: The property name Caption in lblScanTime is invalid.
+Line 2101: The property name _ExtentX in UniLabel14 is invalid.
+Line 2102: The property name _ExtentY in UniLabel14 is invalid.
+Line 2103: The property name Caption in UniLabel14 is invalid.
+Line 2139: The property name _ExtentX in fmMain is invalid.
+Line 2140: The property name _ExtentY in fmMain is invalid.
+Line 2141: The property name MaskColor in fmMain is invalid.
+Line 2142: The property name FrameColor in fmMain is invalid.
+Line 2143: The property name Style in fmMain is invalid.
+Line 2144: The property name Caption in fmMain is invalid.
+Line 2145: The property name TextColor in fmMain is invalid.
+Line 2146: The property name Alignment in fmMain is invalid.
+Line 2162: The property name _ExtentX in PicFirewall is invalid.
+Line 2163: The property name _ExtentY in PicFirewall is invalid.
+Line 2180: The property name _ExtentX in cmdFirewallEvents is invalid.
+Line 2181: The property name _ExtentY in cmdFirewallEvents is invalid.
+Line 2182: The property name Icon in cmdFirewallEvents is invalid.
+Line 2183: The property name Style in cmdFirewallEvents is invalid.
+Line 2184: The property name Caption in cmdFirewallEvents is invalid.
+Line 2185: The property name IconAlign in cmdFirewallEvents is invalid.
+Line 2186: The property name iNonThemeStyle in cmdFirewallEvents is invalid.
+Line 2188: The property name MaskColor in cmdFirewallEvents is invalid.
+Line 2198: The property name RoundedBordersByTheme in cmdFirewallEvents is invalid.
+Line 2199: The property name ShowFocusRectangle in cmdFirewallEvents is invalid.
+Line 2207: The property name _ExtentX in cmdFirewallSetting is invalid.
+Line 2208: The property name _ExtentY in cmdFirewallSetting is invalid.
+Line 2209: The property name Icon in cmdFirewallSetting is invalid.
+Line 2210: The property name Style in cmdFirewallSetting is invalid.
+Line 2211: The property name Caption in cmdFirewallSetting is invalid.
+Line 2212: The property name IconAlign in cmdFirewallSetting is invalid.
+Line 2213: The property name iNonThemeStyle in cmdFirewallSetting is invalid.
+Line 2215: The property name MaskColor in cmdFirewallSetting is invalid.
+Line 2225: The property name RoundedBordersByTheme in cmdFirewallSetting is invalid.
+Line 2226: The property name ShowFocusRectangle in cmdFirewallSetting is invalid.
+Line 2234: The property name _ExtentX in cmdFirewall is invalid.
+Line 2235: The property name _ExtentY in cmdFirewall is invalid.
+Line 2236: The property name Style in cmdFirewall is invalid.
+Line 2237: The property name Caption in cmdFirewall is invalid.
+Line 2238: The property name IconAlign in cmdFirewall is invalid.
+Line 2239: The property name iNonThemeStyle in cmdFirewall is invalid.
+Line 2241: The property name MaskColor in cmdFirewall is invalid.
+Line 2251: The property name RoundedBordersByTheme in cmdFirewall is invalid.
+Line 2252: The property name ShowFocusRectangle in cmdFirewall is invalid.
+Line 2261: The property name _ExtentX in PicProtect is invalid.
+Line 2262: The property name _ExtentY in PicProtect is invalid.
+Line 2280: The property name _ExtentX in cmdVirus is invalid.
+Line 2281: The property name _ExtentY in cmdVirus is invalid.
+Line 2282: The property name Icon in cmdVirus is invalid.
+Line 2283: The property name Style in cmdVirus is invalid.
+Line 2284: The property name Caption in cmdVirus is invalid.
+Line 2285: The property name IconAlign in cmdVirus is invalid.
+Line 2286: The property name iNonThemeStyle in cmdVirus is invalid.
+Line 2288: The property name MaskColor in cmdVirus is invalid.
+Line 2298: The property name RoundedBordersByTheme in cmdVirus is invalid.
+Line 2299: The property name ShowFocusRectangle in cmdVirus is invalid.
+Line 2307: The property name _ExtentX in cmdAutoProtect is invalid.
+Line 2308: The property name _ExtentY in cmdAutoProtect is invalid.
+Line 2309: The property name Icon in cmdAutoProtect is invalid.
+Line 2310: The property name Style in cmdAutoProtect is invalid.
+Line 2311: The property name Caption in cmdAutoProtect is invalid.
+Line 2312: The property name IconAlign in cmdAutoProtect is invalid.
+Line 2313: The property name iNonThemeStyle in cmdAutoProtect is invalid.
+Line 2315: The property name MaskColor in cmdAutoProtect is invalid.
+Line 2325: The property name RoundedBordersByTheme in cmdAutoProtect is invalid.
+Line 2326: The property name ShowFocusRectangle in cmdAutoProtect is invalid.
+Line 2335: The property name _ExtentX in cmdVirus is invalid.
+Line 2336: The property name _ExtentY in cmdVirus is invalid.
+Line 2337: The property name Icon in cmdVirus is invalid.
+Line 2338: The property name Style in cmdVirus is invalid.
+Line 2339: The property name Caption in cmdVirus is invalid.
+Line 2340: The property name IconAlign in cmdVirus is invalid.
+Line 2341: The property name iNonThemeStyle in cmdVirus is invalid.
+Line 2343: The property name MaskColor in cmdVirus is invalid.
+Line 2353: The property name RoundedBordersByTheme in cmdVirus is invalid.
+Line 2354: The property name ShowFocusRectangle in cmdVirus is invalid.
+Line 2363: The property name _ExtentX in cmdVirus is invalid.
+Line 2364: The property name _ExtentY in cmdVirus is invalid.
+Line 2365: The property name Icon in cmdVirus is invalid.
+Line 2366: The property name Style in cmdVirus is invalid.
+Line 2367: The property name Caption in cmdVirus is invalid.
+Line 2368: The property name IconAlign in cmdVirus is invalid.
+Line 2369: The property name iNonThemeStyle in cmdVirus is invalid.
+Line 2371: The property name MaskColor in cmdVirus is invalid.
+Line 2381: The property name RoundedBordersByTheme in cmdVirus is invalid.
+Line 2382: The property name ShowFocusRectangle in cmdVirus is invalid.
+Line 2391: The property name _ExtentX in PicVirus is invalid.
+Line 2392: The property name _ExtentY in PicVirus is invalid.
+Line 2410: The property name _ExtentX in cmdVirus is invalid.
+Line 2411: The property name _ExtentY in cmdVirus is invalid.
+Line 2412: The property name Icon in cmdVirus is invalid.
+Line 2413: The property name Style in cmdVirus is invalid.
+Line 2414: The property name Caption in cmdVirus is invalid.
+Line 2415: The property name IconAlign in cmdVirus is invalid.
+Line 2416: The property name iNonThemeStyle in cmdVirus is invalid.
+Line 2418: The property name MaskColor in cmdVirus is invalid.
+Line 2428: The property name RoundedBordersByTheme in cmdVirus is invalid.
+Line 2429: The property name ShowFocusRectangle in cmdVirus is invalid.
+Line 2438: The property name _ExtentX in cmdVirus is invalid.
+Line 2439: The property name _ExtentY in cmdVirus is invalid.
+Line 2440: The property name Icon in cmdVirus is invalid.
+Line 2441: The property name Style in cmdVirus is invalid.
+Line 2442: The property name Caption in cmdVirus is invalid.
+Line 2443: The property name IconAlign in cmdVirus is invalid.
+Line 2444: The property name iNonThemeStyle in cmdVirus is invalid.
+Line 2446: The property name MaskColor in cmdVirus is invalid.
+Line 2456: The property name RoundedBordersByTheme in cmdVirus is invalid.
+Line 2457: The property name ShowFocusRectangle in cmdVirus is invalid.
+Line 2466: The property name _ExtentX in cmdVirus is invalid.
+Line 2467: The property name _ExtentY in cmdVirus is invalid.
+Line 2468: The property name Icon in cmdVirus is invalid.
+Line 2469: The property name Style in cmdVirus is invalid.
+Line 2470: The property name Caption in cmdVirus is invalid.
+Line 2471: The property name IconAlign in cmdVirus is invalid.
+Line 2472: The property name iNonThemeStyle in cmdVirus is invalid.
+Line 2474: The property name MaskColor in cmdVirus is invalid.
+Line 2484: The property name RoundedBordersByTheme in cmdVirus is invalid.
+Line 2485: The property name ShowFocusRectangle in cmdVirus is invalid.
+Line 2494: The property name _ExtentX in cmdVirus is invalid.
+Line 2495: The property name _ExtentY in cmdVirus is invalid.
+Line 2496: The property name Icon in cmdVirus is invalid.
+Line 2497: The property name Style in cmdVirus is invalid.
+Line 2498: The property name Caption in cmdVirus is invalid.
+Line 2499: The property name IconAlign in cmdVirus is invalid.
+Line 2500: The property name iNonThemeStyle in cmdVirus is invalid.
+Line 2502: The property name MaskColor in cmdVirus is invalid.
+Line 2512: The property name RoundedBordersByTheme in cmdVirus is invalid.
+Line 2513: The property name ShowFocusRectangle in cmdVirus is invalid.
+Line 2521: The property name _ExtentX in cmdQuetVirus is invalid.
+Line 2522: The property name _ExtentY in cmdQuetVirus is invalid.
+Line 2523: The property name Icon in cmdQuetVirus is invalid.
+Line 2524: The property name Style in cmdQuetVirus is invalid.
+Line 2525: The property name Caption in cmdQuetVirus is invalid.
+Line 2526: The property name IconAlign in cmdQuetVirus is invalid.
+Line 2527: The property name iNonThemeStyle in cmdQuetVirus is invalid.
+Line 2529: The property name MaskColor in cmdQuetVirus is invalid.
+Line 2539: The property name RoundedBordersByTheme in cmdQuetVirus is invalid.
+Line 2540: The property name ShowFocusRectangle in cmdQuetVirus is invalid.

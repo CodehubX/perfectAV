@@ -1,0 +1,5 @@
+frmMain = 50, 156, 649, 612, C, 77, 65, 750, 608, C
+basAntiRootKit = 22, 29, 621, 485, 
+basOther = 12, 16, 700, 613, C
+basProcess = 0, 0, 599, 456, C
+basFile = 132, 174, 731, 630, 

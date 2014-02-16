@@ -1,0 +1,7 @@
+[History]
+1=#P0#=mb	#P1#=cmdYes_Click	#P2#=RemovePAV2009/frmMain/cmdYes_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090626142518	#P7#=0	#P8#=18	.
+2=#P0#=mb	#P1#=DeleteKey	#P2#=RemovePAV2009/modRegistry/DeleteKey	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090626141042	#P7#=0	#P8#=2	.
+3=#P0#=mb	#P1#=AppPath	#P2#=RemovePAV2009/frmMain/AppPath	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090626125517	#P7#=0	#P8#=3	.
+4=#P0#=mb	#P1#=zXoaFile	#P2#=RemovePAV2009/frmMain/zXoaFile	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090626125515	#P7#=0	#P8#=0	.
+5=#P0#=mb	#P1#=FileExists	#P2#=RemovePAV2009/frmMain/FileExists	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090626124812	#P7#=0	#P8#=1	.
+6=#P0#=mb	#P1#=cmdNo_Click	#P2#=RemovePAV2009/frmMain/cmdNo_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090626124756	#P7#=0	#P8#=-1	.

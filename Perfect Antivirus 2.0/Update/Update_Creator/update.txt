@@ -1,0 +1,5 @@
+[Update]
+Version=1303
+Size=1.61 KB
+Number=9
+Link=http://phanmemvn.net/files/testupdate.exe

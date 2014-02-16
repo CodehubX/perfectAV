@@ -1,0 +1,19 @@
+[History]
+1=#P0#=mb	#P1#=CheckFiles	#P2#=PerfectAntivirus2009/basMain/CheckFiles	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090830125443	#P7#=-2147483640	#P8#=1	.
+2=#P0#=mb	#P1#=cmdViewErr_Click	#P2#=PerfectAntivirus2009/frmMain/cmdViewErr_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090626131840	#P7#=0	#P8#=3	.
+3=#P0#=mb	#P1#=Form_Load	#P2#=PerfectAntivirus2009/frmMain/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090626131701	#P7#=0	#P8#=251	.
+4=#P0#=mb	#P1#=ReadFileUni	#P2#=PerfectAntivirus2009/basMain/ReadFileUni	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090625221516	#P7#=-2147483640	#P8#=7	.
+5=#P0#=mb	#P1#=cmdFSStop_Click	#P2#=PerfectAntivirus2009/frmMain/cmdFSStop_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090625221152	#P7#=0	#P8#=7	.
+6=#P0#=mb	#P1#=CheckVirus	#P2#=PerfectAntivirus2009/modScanVirus/CheckVirus	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090625220739	#P7#=-2147483640	#P8#=16	.
+7=#P0#=mb	#P1#=xStartFullScanNow	#P2#=PerfectAntivirus2009/frmMain/xStartFullScanNow	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090625215740	#P7#=0	#P8#=129	.
+8=#P0#=mb	#P1#=Form_Load	#P2#=PerfectAntivirus2009/frmFlash/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090625110911	#P7#=0	#P8#=13	.
+9=#P0#=mb	#P1#=WriteErr	#P2#=PerfectAntivirus2009/basMain/WriteErr	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090625110627	#P7#=0	#P8#=6	.
+10=#P0#=mb	#P1#=atptmrAutorun_Timer	#P2#=PerfectAntivirus2009/frmMain/atptmrAutorun_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090625110526	#P7#=0	#P8#=28	.
+11=#P0#=mb	#P1#=GetComputer	#P2#=PerfectAntivirus2009/basMain/GetComputer	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090625110432	#P7#=0	#P8#=12	.
+12=#P0#=mb	#P1#=DelAllSpace	#P2#=PerfectAntivirus2009/modScanVirus/DelAllSpace	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090625110319	#P7#=0	#P8#=8	.
+13=#P0#=mb	#P1#=GetShellOpenAutorun	#P2#=PerfectAntivirus2009/modScanVirus/GetShellOpenAutorun	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090625110249	#P7#=0	#P8#=9	.
+14=#P0#=mb	#P1#=atptmrREG_Timer	#P2#=PerfectAntivirus2009/frmMain/atptmrREG_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090625110239	#P7#=0	#P8#=2	.
+15=#P0#=mb	#P1#=cmdRebotDel_Click	#P2#=PerfectAntivirus2009/frmMain/cmdRebotDel_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090625110238	#P7#=0	#P8#=15	.
+16=#P0#=mb	#P1#=tmrStartFullScan_Timer	#P2#=PerfectAntivirus2009/frmMain/tmrStartFullScan_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090625110212	#P7#=0	#P8#=2	.
+17=#P0#=mb	#P1#=GetMemoryInfo	#P2#=PerfectAntivirus2009/basMain/GetMemoryInfo	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090625110045	#P7#=0	#P8#=12	.
+18=#P0#=mb	#P1#=TreeChucNang_NodeClick	#P2#=PerfectAntivirus2009/frmMain/TreeChucNang_NodeClick	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090624185356	#P7#=0	#P8#=11	.

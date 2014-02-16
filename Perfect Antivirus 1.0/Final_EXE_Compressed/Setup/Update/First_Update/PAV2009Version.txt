@@ -1,0 +1,45 @@
+[Total]
+To=8
+[Version]
+Ver=5
+[1]
+NAMEMD=Worm.Autorun.6036
+MD5=2721FB9557218B9869935361B525D9AD
+NAMESTR=Virus.PE.Reader_s.exe
+STRING=n»&éyÂ$?ž¿&ýÔ]g§n‹Lµ®†WUÜw×Ðc¨¹˜áü« yªä½0gþü
+[2]
+NAMEMD=Worm.Conficker.b
+MD5=38C3D2EFDD47B1034B1624490CE1F3F2
+NAMESTR=Virus.PE.Reader_s.exe
+STRING=×%p®žA)"³]±.º³fAA2ÀÁUGG8ŸÅ‹#<*‡ÌÇ}UFlHIŠKÀlÛŠbSàÒ{\åød n_ìs§ufòu­{lÊ1ÍØÄ+üœuvR©Š¥O >€
+[3]
+NAMEMD=Virus.W32.Kavo.dll
+MD5=AF761DAE7D4BC8C069911A4CA19350FB
+NAMESTR=Virus.PE.Reader_s.exe
+STRING=‹ÁNï1î[22¢‚{œHƒ®ŠåPËªÓXo¤ÞoÚ)¢åçM’[Ú¢[•{ãžK6‚¡¶ÙÜ
+[4]
+NAMEMD=Virus.FakeVideo.DungCoi
+MD5=3B08C5AB895C567AB65832D1415B536F
+NAMESTR=Virus.Reader_s.exe
+STRING=þ½A¢'&÷•°ÿ•‘
+¸¬“3G«-ð²[>¾!¡J¬EÕØèi9ûšµÿå±úØœ³£gý¹f°'¯fA¡{Öe·÷º‰DÃ^ä9@d¹cÿõ(º7½«úGwÐ\ÀÌ¥@uÿõ©Õ
+[5]
+NAMEMD=Virus.Conficker.C
+MD5=2D7FCB7CE3A5C24903C2D09FB7320060
+NAMESTR=
+STRING=
+[6]
+NAMEMD=Worm.FakeVideo.DungCoi
+MD5=79BC3B7835D052AD76CED27402E3C890
+NAMESTR=
+STRING=
+[7]
+NAMEMD=Worm.Autorun.Romantic
+MD5=2A4A6C1D5A6FCD631B5138234D6BAA4F
+NAMESTR=
+STRING=
+[8]
+NAMEMD=Worm.Autorun.Host
+MD5=93D62A40B0719E1CAD7F80333F6F64DE
+NAMESTR=
+STRING=

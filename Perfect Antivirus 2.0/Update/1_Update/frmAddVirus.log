@@ -1,0 +1,12 @@
+Line 36: Class UniControls.UniTrayIcon of control Tray1 was not a loaded control class.
+Line 44: Class FVUnicodeControl.FVistaUniLabel of control FVistaUniLabel1 was not a loaded control class.
+Line 64: Class UniControls.UniLabel of control LBL was not a loaded control class.
+Line 83: Class UniControls.UniLabel of control LBL was not a loaded control class.
+Line 102: Class UniControls.UniLabel of control LBL was not a loaded control class.
+Line 121: Class FVUnicodeControl.FVistaUniButton of control cmdCancel was not a loaded control class.
+Line 142: Class FVUnicodeControl.FVistaUniButton of control cmdUpdate was not a loaded control class.
+Line 163: Class FVUnicodeControl.FVistaUniProgressbar of control Pro1 was not a loaded control class.
+Line 178: Class UniControls.UniLabel of control UniLabel4 was not a loaded control class.
+Line 197: Class UniControls.UniLabel of control UniLabel3 was not a loaded control class.
+Line 216: Class UniControls.UniLabel of control UniLabel1 was not a loaded control class.
+Line 235: Class UniControls.UniLabel of control UniLabel2 was not a loaded control class.

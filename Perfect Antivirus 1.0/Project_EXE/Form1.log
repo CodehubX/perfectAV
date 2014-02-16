@@ -1,0 +1,71 @@
+Line 28: Class UniControls.UniFrame of control F1 was not a loaded control class.
+Line 49: Class UniControls.UniButton of control cmdNoRun was not a loaded control class.
+Line 74: Class UniControls.UniButton of control cmdNoRunAndKill was not a loaded control class.
+Line 99: Class UniControls.UniButton of control cmdRun was not a loaded control class.
+Line 124: Class UniControls.UniLabel of control UniLabel4 was not a loaded control class.
+Line 145: Class UniControls.UniLabel of control lblFileName was not a loaded control class.
+Line 165: Class UniControls.UniLabel of control lblVirusName was not a loaded control class.
+Line 185: Class UniControls.UniLabel of control UniLabel3 was not a loaded control class.
+Line 205: Class UniControls.UniLabel of control UniLabel2 was not a loaded control class.
+Line 225: Class UniControls.UniLabel of control UniLabel1 was not a loaded control class.
+Line 33: The property name _ExtentX in F1 is invalid.
+Line 34: The property name _ExtentY in F1 is invalid.
+Line 35: The property name MaskColor in F1 is invalid.
+Line 36: The property name Style in F1 is invalid.
+Line 37: The property name Caption in F1 is invalid.
+Line 38: The property name TextColor in F1 is invalid.
+Line 48: The property name ThemeColor in F1 is invalid.
+Line 55: The property name _ExtentX in cmdNoRun is invalid.
+Line 56: The property name _ExtentY in cmdNoRun is invalid.
+Line 57: The property name Icon in cmdNoRun is invalid.
+Line 58: The property name Style in cmdNoRun is invalid.
+Line 59: The property name Caption in cmdNoRun is invalid.
+Line 60: The property name IconAlign in cmdNoRun is invalid.
+Line 61: The property name MaskColor in cmdNoRun is invalid.
+Line 71: The property name RoundedBordersByTheme in cmdNoRun is invalid.
+Line 72: The property name ShowFocusRectangle in cmdNoRun is invalid.
+Line 80: The property name _ExtentX in cmdNoRunAndKill is invalid.
+Line 81: The property name _ExtentY in cmdNoRunAndKill is invalid.
+Line 82: The property name Icon in cmdNoRunAndKill is invalid.
+Line 83: The property name Style in cmdNoRunAndKill is invalid.
+Line 84: The property name Caption in cmdNoRunAndKill is invalid.
+Line 85: The property name IconAlign in cmdNoRunAndKill is invalid.
+Line 86: The property name MaskColor in cmdNoRunAndKill is invalid.
+Line 96: The property name RoundedBordersByTheme in cmdNoRunAndKill is invalid.
+Line 97: The property name ShowFocusRectangle in cmdNoRunAndKill is invalid.
+Line 105: The property name _ExtentX in cmdRun is invalid.
+Line 106: The property name _ExtentY in cmdRun is invalid.
+Line 107: The property name Icon in cmdRun is invalid.
+Line 108: The property name Style in cmdRun is invalid.
+Line 109: The property name Caption in cmdRun is invalid.
+Line 110: The property name IconAlign in cmdRun is invalid.
+Line 111: The property name MaskColor in cmdRun is invalid.
+Line 121: The property name RoundedBordersByTheme in cmdRun is invalid.
+Line 122: The property name ShowFocusRectangle in cmdRun is invalid.
+Line 129: The property name _ExtentX in UniLabel4 is invalid.
+Line 130: The property name _ExtentY in UniLabel4 is invalid.
+Line 131: The property name Alignment in UniLabel4 is invalid.
+Line 132: The property name BackStyle in UniLabel4 is invalid.
+Line 133: The property name Caption in UniLabel4 is invalid.
+Line 150: The property name _ExtentX in lblFileName is invalid.
+Line 151: The property name _ExtentY in lblFileName is invalid.
+Line 152: The property name BackStyle in lblFileName is invalid.
+Line 153: The property name Caption in lblFileName is invalid.
+Line 170: The property name _ExtentX in lblVirusName is invalid.
+Line 171: The property name _ExtentY in lblVirusName is invalid.
+Line 172: The property name BackStyle in lblVirusName is invalid.
+Line 173: The property name Caption in lblVirusName is invalid.
+Line 190: The property name _ExtentX in UniLabel3 is invalid.
+Line 191: The property name _ExtentY in UniLabel3 is invalid.
+Line 192: The property name BackStyle in UniLabel3 is invalid.
+Line 193: The property name Caption in UniLabel3 is invalid.
+Line 210: The property name _ExtentX in UniLabel2 is invalid.
+Line 211: The property name _ExtentY in UniLabel2 is invalid.
+Line 212: The property name BackStyle in UniLabel2 is invalid.
+Line 213: The property name Caption in UniLabel2 is invalid.
+Line 230: The property name _ExtentX in UniLabel1 is invalid.
+Line 231: The property name _ExtentY in UniLabel1 is invalid.
+Line 232: The property name Alignment in UniLabel1 is invalid.
+Line 233: The property name BackStyle in UniLabel1 is invalid.
+Line 234: The property name Caption in UniLabel1 is invalid.
+Line 245: The property name VisitedLinkColor in UniLabel1 is invalid.

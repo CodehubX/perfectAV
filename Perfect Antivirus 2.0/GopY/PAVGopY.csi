@@ -1,0 +1,6 @@
+[History]
+1=#P0#=mb	#P1#=cmdSend_Click	#P2#=PAVGopY/frmMain/cmdSend_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090830143435	#P7#=0	#P8#=5	.
+2=#P0#=mb	#P1#=SendMail	#P2#=PAVGopY/modEmail/SendMail	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090830143352	#P7#=0	#P8#=0	.
+3=#P0#=mb	#P1#=Web1_DocumentComplete	#P2#=PAVGopY/frmMain/Web1_DocumentComplete	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090906170715	#P7#=0	#P8#=1	.
+4=#P0#=mb	#P1#=Form_Load	#P2#=PAVGopY/frmMain/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090830142904	#P7#=0	#P8#=1	.
+5=#P0#=mb	#P1#=barDanhGia_ValueChanged	#P2#=PAVGopY/frmMain/barDanhGia_ValueChanged	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090829174646	#P7#=0	#P8#=1	.

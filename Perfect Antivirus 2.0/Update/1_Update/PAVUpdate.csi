@@ -1,0 +1,17 @@
+[History]
+1=#P0#=mb	#P1#=CheckInternet	#P2#=PAVUpdate/Module3/CheckInternet	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090906160916	#P7#=0	#P8#=13	.
+2=#P0#=mb	#P1#=Timer1_Timer	#P2#=PAVUpdate/frmMain/Timer1_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090906170005	#P7#=0	#P8#=1	.
+3=#P0#=mb	#P1#=Form_Unload	#P2#=PAVUpdate/frmAddVirus/Form_Unload	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090906145753	#P7#=0	#P8#=5	.
+4=#P0#=mb	#P1#=Form_Unload	#P2#=PAVUpdate/frmMess/Form_Unload	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090906145715	#P7#=0	#P8#=1	.
+5=#P0#=mb	#P1#=CheckForUpdate	#P2#=PAVUpdate/frmMain/CheckForUpdate	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090906145655	#P7#=0	#P8#=-1	.
+6=#P0#=mb	#P1#=cmdUpdate_Click	#P2#=PAVUpdate/frmAddVirus/cmdUpdate_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090906145326	#P7#=0	#P8#=7	.
+7=#P0#=mb	#P1#=DL1_Complete	#P2#=PAVUpdate/frmAddVirus/DL1_Complete	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090906145231	#P7#=0	#P8#=-1	.
+8=#P0#=mb	#P1#=DL1_Progress	#P2#=PAVUpdate/frmAddVirus/DL1_Progress	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090906145227	#P7#=0	#P8#=1	.
+9=#P0#=mb	#P1#=Form_Load	#P2#=PAVUpdate/frmMain/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090906144345	#P7#=0	#P8#=0	.
+10=#P0#=mb	#P1#=Form_Load	#P2#=PAVUpdate/frmAddVirus/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090906121525	#P7#=0	#P8#=1	.
+11=#P0#=mb	#P1#=GetUrlSource	#P2#=PAVUpdate/Module1/GetUrlSource	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090904134155	#P7#=0	#P8#=8	.
+12=#P0#=mb	#P1#=cmdCancel_Click	#P2#=PAVUpdate/frmAddVirus/cmdCancel_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090904133952	#P7#=0	#P8#=1	.
+13=#P0#=mb	#P1#=AppPath	#P2#=PAVUpdate/Module1/AppPath	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090904125014	#P7#=0	#P8#=2	.
+14=#P0#=mb	#P1#=Tray1_BalloonClick	#P2#=PAVUpdate/frmAddVirus/Tray1_BalloonClick	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090904124641	#P7#=0	#P8#=5	.
+15=#P0#=mb	#P1#=Form_Resize	#P2#=PAVUpdate/frmAddVirus/Form_Resize	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090904124559	#P7#=0	#P8#=-1	.
+16=#P0#=mb	#P1#=Tray1_TrayClick	#P2#=PAVUpdate/frmAddVirus/Tray1_TrayClick	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090904124512	#P7#=0	#P8#=1	.

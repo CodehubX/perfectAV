@@ -1,0 +1,34 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=HelpPAV2009.chm
+Contents file=Desktop\HTML\Table1.hhc
+Default topic=Desktop\HTML\GioiThieuPAV.htm
+Display compile progress=Yes
+Index file=Desktop\HTML\Index.hhk
+Language=0x409 English (United States)
+Title=Perfect Antivirus 2009 Version II
+
+
+[FILES]
+Desktop\HTML\BaoVeAutorun.htm
+Desktop\HTML\BaoVeThoiGianThuc.htm
+Desktop\HTML\CaiDatChung.htm
+Desktop\HTML\CauHinhQuet.htm
+Desktop\HTML\DanhSachTinTuong.htm
+Desktop\HTML\DuLieuVirus.htm
+Desktop\HTML\GioiThieuPAV.htm
+Desktop\HTML\KiemTraHeThong.htm
+Desktop\HTML\NhatKyQuet.htm
+Desktop\HTML\PhucHoiDuLieu.htm
+Desktop\HTML\QuanLyKhoiDong.htm
+Desktop\HTML\QuanLyTienTrinh.htm
+Desktop\HTML\QuetMau.htm
+Desktop\HTML\QuetVirus.htm
+Desktop\HTML\TangTocMayTinh.htm
+Desktop\HTML\ThongTinChung.htm
+Desktop\HTML\TinhChinhRegistry.htm
+Desktop\HTML\VungCachLy.htm
+Desktop\HTML\Contact.htm
+
+[INFOTYPES]
+

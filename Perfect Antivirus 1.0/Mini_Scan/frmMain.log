@@ -1,0 +1,86 @@
+Line 26: Class UniControls.UniLabel of control lblStatus was not a loaded control class.
+Line 44: Class UniControls.UniOptionButton of control optAll was not a loaded control class.
+Line 65: Class UniControls.UniOptionButton of control optCustom was not a loaded control class.
+Line 85: Class UniControls.UniLabel of control UniLabel2 was not a loaded control class.
+Line 103: Class UniControls.UniButton of control cmdExit was not a loaded control class.
+Line 128: Class UniControls.UniButton of control UniButton2 was not a loaded control class.
+Line 154: Class UniControls.UniButton of control UniButton1 was not a loaded control class.
+Line 180: Class UniControls.UniButton of control cmdStop was not a loaded control class.
+Line 207: Class UniControls.UniButton of control cmdScan was not a loaded control class.
+Line 233: Class UniControls.UniListView of control LV was not a loaded control class.
+Line 259: Class UniControls.UniLabel of control UniLabel1 was not a loaded control class.
+Line 31: The property name _ExtentX in lblStatus is invalid.
+Line 32: The property name _ExtentY in lblStatus is invalid.
+Line 33: The property name Caption in lblStatus is invalid.
+Line 50: The property name _ExtentX in optAll is invalid.
+Line 51: The property name _ExtentY in optAll is invalid.
+Line 61: The property name Value in optAll is invalid.
+Line 62: The property name Caption in optAll is invalid.
+Line 71: The property name _ExtentX in optCustom is invalid.
+Line 72: The property name _ExtentY in optCustom is invalid.
+Line 82: The property name Caption in optCustom is invalid.
+Line 90: The property name _ExtentX in UniLabel2 is invalid.
+Line 91: The property name _ExtentY in UniLabel2 is invalid.
+Line 92: The property name Caption in UniLabel2 is invalid.
+Line 109: The property name _ExtentX in cmdExit is invalid.
+Line 110: The property name _ExtentY in cmdExit is invalid.
+Line 111: The property name Icon in cmdExit is invalid.
+Line 112: The property name Style in cmdExit is invalid.
+Line 113: The property name IconAlign in cmdExit is invalid.
+Line 114: The property name iNonThemeStyle in cmdExit is invalid.
+Line 115: The property name MaskColor in cmdExit is invalid.
+Line 125: The property name RoundedBordersByTheme in cmdExit is invalid.
+Line 126: The property name ShowFocusRectangle in cmdExit is invalid.
+Line 134: The property name _ExtentX in UniButton2 is invalid.
+Line 135: The property name _ExtentY in UniButton2 is invalid.
+Line 136: The property name Icon in UniButton2 is invalid.
+Line 137: The property name Style in UniButton2 is invalid.
+Line 138: The property name Caption in UniButton2 is invalid.
+Line 139: The property name IconAlign in UniButton2 is invalid.
+Line 140: The property name iNonThemeStyle in UniButton2 is invalid.
+Line 141: The property name MaskColor in UniButton2 is invalid.
+Line 151: The property name RoundedBordersByTheme in UniButton2 is invalid.
+Line 152: The property name ShowFocusRectangle in UniButton2 is invalid.
+Line 160: The property name _ExtentX in UniButton1 is invalid.
+Line 161: The property name _ExtentY in UniButton1 is invalid.
+Line 162: The property name Icon in UniButton1 is invalid.
+Line 163: The property name Style in UniButton1 is invalid.
+Line 164: The property name Caption in UniButton1 is invalid.
+Line 165: The property name IconAlign in UniButton1 is invalid.
+Line 166: The property name iNonThemeStyle in UniButton1 is invalid.
+Line 167: The property name MaskColor in UniButton1 is invalid.
+Line 177: The property name RoundedBordersByTheme in UniButton1 is invalid.
+Line 178: The property name ShowFocusRectangle in UniButton1 is invalid.
+Line 186: The property name _ExtentX in cmdStop is invalid.
+Line 187: The property name _ExtentY in cmdStop is invalid.
+Line 188: The property name Icon in cmdStop is invalid.
+Line 189: The property name Style in cmdStop is invalid.
+Line 190: The property name Caption in cmdStop is invalid.
+Line 191: The property name IconAlign in cmdStop is invalid.
+Line 192: The property name iNonThemeStyle in cmdStop is invalid.
+Line 194: The property name MaskColor in cmdStop is invalid.
+Line 204: The property name RoundedBordersByTheme in cmdStop is invalid.
+Line 205: The property name ShowFocusRectangle in cmdStop is invalid.
+Line 213: The property name _ExtentX in cmdScan is invalid.
+Line 214: The property name _ExtentY in cmdScan is invalid.
+Line 215: The property name Icon in cmdScan is invalid.
+Line 216: The property name Style in cmdScan is invalid.
+Line 217: The property name Caption in cmdScan is invalid.
+Line 218: The property name IconAlign in cmdScan is invalid.
+Line 219: The property name iNonThemeStyle in cmdScan is invalid.
+Line 220: The property name MaskColor in cmdScan is invalid.
+Line 230: The property name RoundedBordersByTheme in cmdScan is invalid.
+Line 231: The property name ShowFocusRectangle in cmdScan is invalid.
+Line 239: The property name _ExtentX in LV is invalid.
+Line 240: The property name _ExtentY in LV is invalid.
+Line 251: The property name MultiSelect in LV is invalid.
+Line 252: The property name LabelEdit in LV is invalid.
+Line 253: The property name AutoArrange in LV is invalid.
+Line 254: The property name HeaderButtons in LV is invalid.
+Line 255: The property name HeaderTrackSelect in LV is invalid.
+Line 256: The property name HideSelection in LV is invalid.
+Line 257: The property name InfoTips in LV is invalid.
+Line 264: The property name _ExtentX in UniLabel1 is invalid.
+Line 265: The property name _ExtentY in UniLabel1 is invalid.
+Line 266: The property name Alignment in UniLabel1 is invalid.
+Line 267: The property name Caption in UniLabel1 is invalid.

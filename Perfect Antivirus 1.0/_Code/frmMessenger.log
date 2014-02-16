@@ -1,0 +1,4 @@
+Line 43: Class UniControls.UniFrame of control F1 was not a loaded control class.
+Line 64: Class UniControls.UniButton of control cmdCloseMessenger was not a loaded control class.
+Line 90: Class UniControls.UniLabel of control lblText was not a loaded control class.
+Line 109: Class UniControls.UniLabel of control lblTitle was not a loaded control class.

@@ -1,0 +1,64 @@
+Line 26: Class UniControls.UniFrame of control F1 was not a loaded control class.
+Line 48: Class UniControls.UniLabel of control lblSta was not a loaded control class.
+Line 69: Class UniControls.UniButton of control UniButton2 was not a loaded control class.
+Line 95: Class UniControls.UniButton of control UniButton1 was not a loaded control class.
+Line 121: Class UniControls.UniListView of control LVVirus3 was not a loaded control class.
+Line 147: Class UniControls.UniTextBox of control txtPathFolder was not a loaded control class.
+Line 169: Class UniControls.UniLabel of control UniLabel2 was not a loaded control class.
+Line 188: Class UniControls.UniLabel of control UniLabel1 was not a loaded control class.
+Line 31: The property name _ExtentX in F1 is invalid.
+Line 32: The property name _ExtentY in F1 is invalid.
+Line 33: The property name MaskColor in F1 is invalid.
+Line 34: The property name Style in F1 is invalid.
+Line 35: The property name Caption in F1 is invalid.
+Line 36: The property name TextColor in F1 is invalid.
+Line 46: The property name Icon in F1 is invalid.
+Line 47: The property name ThemeColor in F1 is invalid.
+Line 53: The property name _ExtentX in lblSta is invalid.
+Line 54: The property name _ExtentY in lblSta is invalid.
+Line 55: The property name Alignment in lblSta is invalid.
+Line 56: The property name BackStyle in lblSta is invalid.
+Line 57: The property name Caption in lblSta is invalid.
+Line 75: The property name _ExtentX in UniButton2 is invalid.
+Line 76: The property name _ExtentY in UniButton2 is invalid.
+Line 77: The property name Icon in UniButton2 is invalid.
+Line 78: The property name Style in UniButton2 is invalid.
+Line 79: The property name Caption in UniButton2 is invalid.
+Line 80: The property name IconAlign in UniButton2 is invalid.
+Line 81: The property name iNonThemeStyle in UniButton2 is invalid.
+Line 82: The property name MaskColor in UniButton2 is invalid.
+Line 92: The property name RoundedBordersByTheme in UniButton2 is invalid.
+Line 93: The property name ShowFocusRectangle in UniButton2 is invalid.
+Line 101: The property name _ExtentX in UniButton1 is invalid.
+Line 102: The property name _ExtentY in UniButton1 is invalid.
+Line 103: The property name Icon in UniButton1 is invalid.
+Line 104: The property name Style in UniButton1 is invalid.
+Line 105: The property name Caption in UniButton1 is invalid.
+Line 106: The property name IconAlign in UniButton1 is invalid.
+Line 107: The property name iNonThemeStyle in UniButton1 is invalid.
+Line 108: The property name MaskColor in UniButton1 is invalid.
+Line 118: The property name RoundedBordersByTheme in UniButton1 is invalid.
+Line 119: The property name ShowFocusRectangle in UniButton1 is invalid.
+Line 127: The property name _ExtentX in LVVirus3 is invalid.
+Line 128: The property name _ExtentY in LVVirus3 is invalid.
+Line 139: The property name MultiSelect in LVVirus3 is invalid.
+Line 140: The property name LabelEdit in LVVirus3 is invalid.
+Line 141: The property name AutoArrange in LVVirus3 is invalid.
+Line 142: The property name HeaderButtons in LVVirus3 is invalid.
+Line 143: The property name HeaderTrackSelect in LVVirus3 is invalid.
+Line 144: The property name HideSelection in LVVirus3 is invalid.
+Line 145: The property name InfoTips in LVVirus3 is invalid.
+Line 153: The property name _ExtentX in txtPathFolder is invalid.
+Line 154: The property name _ExtentY in txtPathFolder is invalid.
+Line 165: The property name Text in txtPathFolder is invalid.
+Line 166: The property name Locked in txtPathFolder is invalid.
+Line 147: Property BorderStyle in txtPathFolder could not be set.
+Line 174: The property name _ExtentX in UniLabel2 is invalid.
+Line 175: The property name _ExtentY in UniLabel2 is invalid.
+Line 176: The property name BackStyle in UniLabel2 is invalid.
+Line 177: The property name Caption in UniLabel2 is invalid.
+Line 193: The property name _ExtentX in UniLabel1 is invalid.
+Line 194: The property name _ExtentY in UniLabel1 is invalid.
+Line 195: The property name Alignment in UniLabel1 is invalid.
+Line 196: The property name BackStyle in UniLabel1 is invalid.
+Line 197: The property name Caption in UniLabel1 is invalid.
